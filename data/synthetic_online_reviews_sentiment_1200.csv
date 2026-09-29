@@ -1,1 +1,1201 @@
-
+review_id,review_text,product,category,sentiment,source,date,rating,verified_purchase
+REV0350,The size and appearance are as expected. I have not tested the battery life much yet.,Wireless Earbuds,Electronics,neutral,Social Commerce,2026-01-03,3,Yes
+REV1126,I expected better quality. The frame quality is the main problem.,Sunglasses,Fashion,negative,Online Store,2025-08-24,2,Yes
+REV0039,"It does what it is supposed to do, although the stability is nothing special.",Laptop Stand,Electronics,neutral,Social Commerce,2026-03-30,4,Yes
+REV0374,"The bluetooth speaker is not bad, but I would not call the Bluetooth connection exceptional.",Bluetooth Speaker,Electronics,neutral,Online Store,2025-12-14,3,Yes
+REV0778,Really happy with this purchase. The switch works very well.,Desk Lamp,Home & Kitchen,positive,Online Store,2026-03-16,5,Yes
+REV0623,This has made my daily routine easier. The step tracking is very convenient.,Smart Watch,Electronics,positive,Social Commerce,2026-01-12,5,Yes
+REV1020,Really happy with this purchase. The skin feel works very well.,Face Wash,Beauty,positive,Online Store,2026-02-11,5,Yes
+REV0414,I have used it for a while and the Bluetooth connection has been reliable.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-06-26,4,No
+REV0735,"The product looks as shown in the listing, and the straps is fairly ordinary. Nothing unusual was noticed during delivery.",Backpack,Fashion,neutral,Online Store,2025-11-03,3,Yes
+REV0931,"It does what it is supposed to do, although the battery life is nothing special.",Wireless Earbuds,Electronics,neutral,Social Commerce,2026-07-02,3,Yes
+REV0863,I would buy this again. The key feel is a nice touch.,Mechanical Keyboard,Electronics,positive,Social Commerce,2025-09-13,5,Yes
+REV0761,The face wash is okay for now. I need more time to judge the texture.,Face Wash,Beauty,neutral,Online Store,2026-08-10,3,Yes
+REV1094,Excellent value for the price. I especially like the size.,Power Bank,Electronics,positive,Online Store,2025-06-25,4,No
+REV1106,"It looks nice at first, although the texture does not meet my expectations.",Moisturizer,Beauty,negative,Social Commerce,2026-04-12,1,Yes
+REV0835,The size and appearance are as expected. I have not tested the heat control much yet. I will update my opinion after more use.,USB-C Charger,Electronics,neutral,Online Store,2026-01-07,3,Yes
+REV0845,I have used it for a while and the Bluetooth connection has been reliable.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-01-31,5,Yes
+REV0568,"I received the correct item and have used it once. So far, the color seems acceptable.",Bed Sheet Set,Home & Kitchen,neutral,Online Store,2026-03-26,3,Yes
+REV0823,"Delivery was normal. The product itself seems average, especially the charging speed.",USB-C Charger,Electronics,neutral,Online Store,2025-09-17,3,Yes
+REV0168,"It does what it is supposed to do, although the heat distribution is nothing special.",Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2025-10-10,3,Yes
+REV0396,"The non-stick frying pan has a nice design, but the weight is too unreliable for me.",Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2026-08-31,2,Yes
+REV0709,Really happy with this purchase. The step tracking works very well.,Smart Watch,Electronics,positive,Social Commerce,2025-11-29,5,Yes
+REV0704,Very satisfied overall. The frame quality is exactly what I needed.,Sunglasses,Fashion,positive,Social Commerce,2026-06-02,4,Yes
+REV1186,The product does not perform as advertised. The frame quality is especially weak.,Sunglasses,Fashion,negative,Social Commerce,2025-06-27,3,Yes
+REV1024,"The backpack looks fine, but the zipper quality stopped working quickly.",Backpack,Fashion,negative,Social Commerce,2025-03-21,1,No
+REV1069,I would buy this again. The fit is a nice touch.,Sunglasses,Fashion,positive,Online Store,2025-06-08,5,Yes
+REV1198,"The product looks as shown in the listing, and the battery life is fairly ordinary.",Wireless Earbuds,Electronics,neutral,Online Store,2026-02-03,3,No
+REV0073,The mechanical keyboard arrived on time. I have only used it a few times so far.,Mechanical Keyboard,Electronics,neutral,Online Store,2025-08-16,3,Yes
+REV0426,No major issue so far. The lid design is neither impressive nor disappointing.,Water Bottle,Home & Kitchen,neutral,Online Store,2026-03-31,3,Yes
+REV0679,The size and appearance are as expected. I have not tested the size much yet.,Coffee Mug,Home & Kitchen,neutral,Online Store,2025-02-10,3,No
+REV1059,I have used it for a while and the grip has been reliable.,Phone Case,Accessories,positive,Social Commerce,2025-05-07,4,No
+REV0788,I would buy this again. The non-stick coating is a nice touch.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-10-29,4,Yes
+REV0883,"The running shoes looks fine, but the fit stopped working quickly. Delivery was not the main problem.",Running Shoes,Fashion,negative,Social Commerce,2026-04-29,2,No
+REV0886,The size and appearance are as expected. I have not tested the handle much yet.,Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2025-03-02,3,No
+REV0128,Not worth the price. The fit is much worse than expected.,Cotton T-Shirt,Fashion,negative,Social Commerce,2025-01-03,2,Yes
+REV0357,"I expected a basic product, but the leak protection turned out to be surprisingly good.",Water Bottle,Home & Kitchen,positive,Online Store,2025-05-04,5,No
+REV0557,Excellent value for the price. I especially like the fit.,Cotton T-Shirt,Fashion,positive,Online Store,2025-05-27,4,Yes
+REV0208,I would not recommend it. The size caused too many problems.,Storage Organizer,Home & Kitchen,negative,Online Store,2025-08-04,1,Yes
+REV0510,No major issue so far. The charging speed is neither impressive nor disappointing.,Power Bank,Electronics,neutral,Online Store,2025-11-25,4,No
+REV0397,"I would not recommend it. The button access caused too many problems. The packaging looked fine, but the product was not.",Phone Case,Accessories,negative,Online Store,2026-08-15,2,Yes
+REV0986,The product does not perform as advertised. The heat control is especially weak.,USB-C Charger,Electronics,negative,Social Commerce,2026-04-30,2,Yes
+REV0619,Very satisfied overall. The build quality is exactly what I needed.,Power Bank,Electronics,positive,Social Commerce,2026-07-25,4,Yes
+REV0917,"I expected a basic product, but the texture turned out to be surprisingly good.",Face Wash,Beauty,positive,Online Store,2026-06-20,4,No
+REV0197,"The sunglasses looks fine, but the lens quality stopped working quickly.",Sunglasses,Fashion,negative,Online Store,2026-04-19,1,Yes
+REV0034,"It arrived, but the fabric quality was already damaged.",Cotton T-Shirt,Fashion,negative,Online Store,2026-08-12,2,Yes
+REV0380,I would buy this again. The insulation is a nice touch.,Water Bottle,Home & Kitchen,positive,Online Store,2025-01-10,5,Yes
+REV0819,Very satisfied overall. The switch is exactly what I needed.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-08-29,5,Yes
+REV0315,I would buy this again. The lid design is a nice touch.,Water Bottle,Home & Kitchen,positive,Online Store,2026-07-06,5,Yes
+REV0381,"The desk lamp is not bad, but I would not call the brightness exceptional.",Desk Lamp,Home & Kitchen,neutral,Online Store,2026-08-17,3,Yes
+REV0767,Excellent value for the price. I especially like the color.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-04-07,4,Yes
+REV0564,Really happy with this purchase. The charging speed works very well. Delivery was quick.,Power Bank,Electronics,positive,Online Store,2025-07-14,4,Yes
+REV0459,The smart watch arrived on time. I have only used it a few times so far. Nothing unusual was noticed during delivery.,Smart Watch,Electronics,neutral,Social Commerce,2025-09-20,3,Yes
+REV0493,I expected better quality. The fit is the main problem.,Phone Case,Accessories,negative,Social Commerce,2025-08-02,3,Yes
+REV0227,Good quality product and the button access feels well made.,Phone Case,Accessories,positive,Online Store,2025-06-01,5,No
+REV0145,The phone case looks good and the grip is better than I expected.,Phone Case,Accessories,positive,Online Store,2025-06-15,4,Yes
+REV0258,"The desk lamp has a nice design, but the switch is too unreliable for me.",Desk Lamp,Home & Kitchen,negative,Online Store,2026-06-04,2,Yes
+REV0298,Pleasantly surprised by the quality. The material is excellent.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2026-07-09,5,Yes
+REV0657,"The cotton t-shirt is not perfect, but the comfort is quite good and useful. The packaging was also neat.",Cotton T-Shirt,Fashion,positive,Social Commerce,2025-11-28,5,Yes
+REV0829,"It does what it is supposed to do, although the absorption is nothing special. Nothing unusual was noticed during delivery.",Moisturizer,Beauty,neutral,Online Store,2026-08-17,3,Yes
+REV0444,Not worth the price. The fit is much worse than expected.,Bed Sheet Set,Home & Kitchen,negative,Online Store,2026-01-31,2,No
+REV0471,Good quality product and the non-stick coating feels well made.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2026-03-14,5,Yes
+REV0336,"Delivery was normal. The product itself seems average, especially the finish.",Coffee Mug,Home & Kitchen,neutral,Social Commerce,2026-08-31,3,Yes
+REV0273,I have used it for a while and the finish has been reliable.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-06-03,5,Yes
+REV0205,I expected better quality. The texture is the main problem.,Moisturizer,Beauty,negative,Online Store,2025-09-11,2,Yes
+REV1086,The coffee mug looks good and the size is better than I expected.,Coffee Mug,Home & Kitchen,positive,Online Store,2025-06-07,4,Yes
+REV0486,Disappointed with this purchase. The typing response is poor.,Mechanical Keyboard,Electronics,negative,Social Commerce,2026-06-06,2,No
+REV0524,I have used it for a while and the size has been reliable.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-10-05,5,Yes
+REV0508,Not worth the price. The capacity is much worse than expected.,Storage Organizer,Home & Kitchen,negative,Social Commerce,2025-03-04,2,Yes
+REV0342,Excellent value for the price. I especially like the color.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-05-17,4,Yes
+REV0540,"It arrived, but the cable fit was already damaged.",USB-C Charger,Electronics,negative,Online Store,2025-06-06,3,No
+REV0900,The quality is disappointing and the key feel feels cheap.,Mechanical Keyboard,Electronics,negative,Social Commerce,2025-10-20,1,Yes
+REV0239,The laptop stand is usable and matches the description. I am undecided about the portability.,Laptop Stand,Electronics,neutral,Social Commerce,2026-04-06,3,Yes
+REV0889,The laptop stand looks good and the height adjustment is better than I expected.,Laptop Stand,Electronics,positive,Online Store,2026-02-14,5,Yes
+REV0390,I would buy this again. The stability is a nice touch. Delivery was quick.,Laptop Stand,Electronics,positive,Social Commerce,2026-07-07,5,Yes
+REV0620,"The smart watch has a nice design, but the step tracking is too unreliable for me.",Smart Watch,Electronics,negative,Online Store,2025-08-17,3,Yes
+REV0132,Really happy with this purchase. The fabric quality works very well. Delivery was quick.,Cotton T-Shirt,Fashion,positive,Online Store,2026-02-14,5,Yes
+REV0811,"Disappointed with this purchase. The fit is poor. The packaging looked fine, but the product was not.",Cotton T-Shirt,Fashion,negative,Online Store,2025-03-12,1,Yes
+REV0082,"I received the correct item and have used it once. So far, the build quality seems acceptable.",Power Bank,Electronics,neutral,Social Commerce,2025-12-12,3,No
+REV0337,The product does not perform as advertised. The key feel is especially weak.,Mechanical Keyboard,Electronics,negative,Online Store,2025-07-22,2,Yes
+REV0801,The size and appearance are as expected. I have not tested the screen much yet.,Smart Watch,Electronics,neutral,Social Commerce,2025-01-19,3,Yes
+REV0821,Pleasantly surprised by the quality. The sound quality is excellent.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-03-20,5,Yes
+REV0904,I have used it for a while and the assembly has been reliable.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-03-12,5,Yes
+REV0263,The size and appearance are as expected. I have not tested the skin feel much yet. The packaging was standard.,Moisturizer,Beauty,neutral,Online Store,2025-11-23,3,No
+REV0626,The quality is disappointing and the capacity feels cheap.,Storage Organizer,Home & Kitchen,negative,Online Store,2025-09-17,2,Yes
+REV1081,"The product looks as shown in the listing, and the packaging is fairly ordinary. Delivery took a normal amount of time.",Face Wash,Beauty,neutral,Online Store,2026-07-10,3,No
+REV0865,I expected better quality. The height adjustment is the main problem. I noticed the problem within the first week.,Laptop Stand,Electronics,negative,Social Commerce,2025-06-08,2,No
+REV1058,The product does not perform as advertised. The size is especially weak.,Power Bank,Electronics,negative,Online Store,2025-02-18,3,Yes
+REV0448,The power bank arrived on time. I have only used it a few times so far. Delivery took a normal amount of time.,Power Bank,Electronics,neutral,Online Store,2025-05-19,3,Yes
+REV0136,Really happy with this purchase. The cable fit works very well.,USB-C Charger,Electronics,positive,Online Store,2025-07-01,4,Yes
+REV0824,The quality is disappointing and the size feels cheap.,Storage Organizer,Home & Kitchen,negative,Online Store,2025-06-15,3,Yes
+REV0376,"The sunglasses is not perfect, but the fit is quite good and useful.",Sunglasses,Fashion,positive,Social Commerce,2026-07-13,5,Yes
+REV0920,"I received the correct item and have used it once. So far, the leak protection seems acceptable.",Water Bottle,Home & Kitchen,neutral,Social Commerce,2025-05-23,3,Yes
+REV0084,Really happy with this purchase. The brightness works very well. Delivery was quick.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-01-10,5,Yes
+REV0306,Disappointed with this purchase. The size is poor.,Coffee Mug,Home & Kitchen,negative,Social Commerce,2025-05-02,2,Yes
+REV0780,"The usb-c charger is not perfect, but the cable fit is quite good and useful.",USB-C Charger,Electronics,positive,Social Commerce,2025-10-25,5,No
+REV1166,I have used it for a while and the switch has been reliable.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-07-17,5,No
+REV0436,The size and appearance are as expected. I have not tested the charging speed much yet.,USB-C Charger,Electronics,neutral,Online Store,2026-03-17,3,Yes
+REV1184,Very frustrating to use because the non-stick coating keeps causing issues.,Non-Stick Frying Pan,Home & Kitchen,negative,Online Store,2025-12-26,2,No
+REV0296,I would not recommend it. The screen caused too many problems.,Smart Watch,Electronics,negative,Social Commerce,2025-11-22,1,No
+REV0833,I have used it for a while and the step tracking has been reliable.,Smart Watch,Electronics,positive,Online Store,2026-04-29,5,Yes
+REV0955,"I expected a basic product, but the zipper quality turned out to be surprisingly good. The packaging was also neat.",Backpack,Fashion,positive,Social Commerce,2025-11-08,4,Yes
+REV0668,"The mechanical keyboard has a nice design, but the key feel is too unreliable for me.",Mechanical Keyboard,Electronics,negative,Social Commerce,2025-06-21,2,Yes
+REV1036,Pleasantly surprised by the quality. The charging speed is excellent.,Power Bank,Electronics,positive,Social Commerce,2025-06-03,4,Yes
+REV0276,The usb-c charger is usable and matches the description. I am undecided about the build quality.,USB-C Charger,Electronics,neutral,Social Commerce,2025-10-09,3,Yes
+REV0111,Disappointed with this purchase. The packaging is poor. I contacted support and the issue remained.,Face Wash,Beauty,negative,Social Commerce,2025-02-18,2,Yes
+REV0794,This has made my daily routine easier. The build quality is very convenient.,Laptop Stand,Electronics,positive,Social Commerce,2025-12-16,5,Yes
+REV0466,The product does not perform as advertised. The zipper quality is especially weak.,Backpack,Fashion,negative,Online Store,2026-05-07,2,Yes
+REV0736,"The non-stick frying pan is not perfect, but the non-stick coating is quite good and useful.",Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-03-22,5,Yes
+REV0721,No major issue so far. The brightness is neither impressive nor disappointing.,Desk Lamp,Home & Kitchen,neutral,Online Store,2025-04-22,3,Yes
+REV0225,"Delivery was normal. The product itself seems average, especially the scent.",Face Wash,Beauty,neutral,Social Commerce,2026-08-17,3,No
+REV0317,"The usb-c charger has a nice design, but the build quality is too unreliable for me.",USB-C Charger,Electronics,negative,Social Commerce,2026-04-25,3,Yes
+REV0189,I have used it for a while and the protection has been reliable.,Phone Case,Accessories,positive,Online Store,2026-06-21,5,No
+REV0962,"The bluetooth speaker is not perfect, but the sound quality is quite good and useful. Delivery was quick.",Bluetooth Speaker,Electronics,positive,Social Commerce,2025-01-09,4,No
+REV0172,Arrived on time and works as described. The height adjustment is great.,Laptop Stand,Electronics,positive,Online Store,2026-06-12,4,No
+REV0930,The mechanical keyboard is okay for now. I need more time to judge the key feel.,Mechanical Keyboard,Electronics,neutral,Social Commerce,2026-04-28,3,Yes
+REV0267,The non-stick frying pan is usable and matches the description. I am undecided about the heat distribution.,Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2025-11-09,3,Yes
+REV0972,This has made my daily routine easier. The absorption is very convenient.,Moisturizer,Beauty,positive,Online Store,2025-02-15,5,Yes
+REV1019,"It looks nice at first, although the design does not meet my expectations. The packaging looked fine, but the product was not.",Desk Lamp,Home & Kitchen,negative,Online Store,2025-05-15,2,Yes
+REV0169,"The phone case is not bad, but I would not call the button access exceptional.",Phone Case,Accessories,neutral,Online Store,2025-11-26,4,Yes
+REV0393,"The product looks as shown in the listing, and the design is fairly ordinary. Delivery took a normal amount of time.",Desk Lamp,Home & Kitchen,neutral,Social Commerce,2025-12-08,3,No
+REV0389,Arrived on time and works as described. The softness is great.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-08-25,5,Yes
+REV0081,I had a bad experience because the fit is unreliable. I noticed the problem within the first week.,Cotton T-Shirt,Fashion,negative,Online Store,2025-07-30,2,No
+REV0764,"The sunglasses looks fine, but the comfort stopped working quickly.",Sunglasses,Fashion,negative,Social Commerce,2025-11-09,2,Yes
+REV0719,I would not recommend it. The Bluetooth connection caused too many problems.,Bluetooth Speaker,Electronics,negative,Online Store,2026-08-28,2,No
+REV0179,Packaging was fine and delivery was on schedule. I am still testing the notifications.,Smart Watch,Electronics,neutral,Online Store,2026-05-28,4,Yes
+REV0603,This has made my daily routine easier. The fabric quality is very convenient.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-08-10,5,Yes
+REV0162,The water bottle looks good and the insulation is better than I expected.,Water Bottle,Home & Kitchen,positive,Social Commerce,2026-05-24,5,Yes
+REV0252,Packaging was fine and delivery was on schedule. I am still testing the heat distribution. The packaging was standard.,Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2025-03-14,3,Yes
+REV1071,The wireless earbuds is okay for now. I need more time to judge the Bluetooth connection. Nothing unusual was noticed during delivery.,Wireless Earbuds,Electronics,neutral,Social Commerce,2026-05-22,3,Yes
+REV0484,No major issue so far. The build quality is neither impressive nor disappointing.,USB-C Charger,Electronics,neutral,Online Store,2025-02-24,4,Yes
+REV0367,The smart watch is okay for now. I need more time to judge the battery life.,Smart Watch,Electronics,neutral,Social Commerce,2026-03-14,3,Yes
+REV0207,The running shoes is usable and matches the description. I am undecided about the comfort.,Running Shoes,Fashion,neutral,Social Commerce,2025-09-19,4,Yes
+REV0734,The sunglasses is okay for now. I need more time to judge the lens quality.,Sunglasses,Fashion,neutral,Online Store,2026-06-18,3,Yes
+REV0747,Very frustrating to use because the volume keeps causing issues.,Bluetooth Speaker,Electronics,negative,Social Commerce,2025-07-26,2,No
+REV0725,The power bank arrived on time. I have only used it a few times so far.,Power Bank,Electronics,neutral,Online Store,2025-10-24,3,Yes
+REV0494,Very frustrating to use because the capacity keeps causing issues.,Storage Organizer,Home & Kitchen,negative,Online Store,2025-12-12,3,Yes
+REV0561,"The face wash is not bad, but I would not call the scent exceptional.",Face Wash,Beauty,neutral,Social Commerce,2025-10-21,3,Yes
+REV1170,Disappointed with this purchase. The adjustability is poor. I contacted support and the issue remained.,Desk Lamp,Home & Kitchen,negative,Social Commerce,2025-09-07,3,Yes
+REV1127,"The backpack is okay overall; the comfort works, but there is nothing remarkable.",Backpack,Fashion,neutral,Online Store,2026-02-19,4,Yes
+REV0748,The quality is disappointing and the lid design feels cheap.,Water Bottle,Home & Kitchen,negative,Social Commerce,2025-11-13,1,Yes
+REV0143,Packaging was fine and delivery was on schedule. I am still testing the battery life.,Bluetooth Speaker,Electronics,neutral,Social Commerce,2025-02-20,3,No
+REV0562,I would not recommend it. The comfort caused too many problems.,Sunglasses,Fashion,negative,Online Store,2026-08-20,2,No
+REV0776,Excellent value for the price. I especially like the portability.,Laptop Stand,Electronics,positive,Social Commerce,2025-05-11,4,Yes
+REV0182,"I expected a basic product, but the screen turned out to be surprisingly good.",Smart Watch,Electronics,positive,Online Store,2026-01-09,5,No
+REV1093,I would not recommend it. The notifications caused too many problems.,Smart Watch,Electronics,negative,Online Store,2026-04-28,2,No
+REV0294,Very satisfied overall. The texture is exactly what I needed.,Face Wash,Beauty,positive,Social Commerce,2026-07-19,4,No
+REV0076,I would buy this again. The brightness is a nice touch.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-02-05,4,Yes
+REV0750,The usb-c charger arrived on time. I have only used it a few times so far. I will update my opinion after more use.,USB-C Charger,Electronics,neutral,Social Commerce,2026-08-15,4,Yes
+REV0289,"The product looks as shown in the listing, and the lens quality is fairly ordinary.",Sunglasses,Fashion,neutral,Social Commerce,2026-03-15,3,Yes
+REV0757,The quality is disappointing and the leak protection feels cheap.,Water Bottle,Home & Kitchen,negative,Social Commerce,2025-12-18,3,No
+REV0347,Disappointed with this purchase. The absorption is poor.,Moisturizer,Beauty,negative,Social Commerce,2026-02-24,1,No
+REV0612,The power bank is usable and matches the description. I am undecided about the build quality.,Power Bank,Electronics,neutral,Online Store,2026-05-25,3,Yes
+REV0323,The cotton t-shirt arrived on time. I have only used it a few times so far.,Cotton T-Shirt,Fashion,neutral,Online Store,2025-11-20,3,No
+REV0549,Very satisfied overall. The handle is exactly what I needed.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-07-03,4,Yes
+REV0487,Really happy with this purchase. The charging speed works very well.,USB-C Charger,Electronics,positive,Social Commerce,2025-04-15,4,Yes
+REV0816,Arrived on time and works as described. The volume is great.,Bluetooth Speaker,Electronics,positive,Online Store,2025-05-26,5,Yes
+REV0806,Really happy with this purchase. The heat control works very well.,USB-C Charger,Electronics,positive,Social Commerce,2026-06-29,5,Yes
+REV0712,I would not recommend it. The battery life caused too many problems.,Wireless Earbuds,Electronics,negative,Online Store,2025-03-22,1,Yes
+REV0576,The size and appearance are as expected. I have not tested the charging speed much yet. Nothing unusual was noticed during delivery.,Power Bank,Electronics,neutral,Online Store,2025-11-21,4,Yes
+REV0408,Good quality product and the non-stick coating feels well made.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-08-08,4,Yes
+REV0453,The size and appearance are as expected. I have not tested the color much yet.,Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-02-24,4,Yes
+REV0570,Good quality product and the brightness feels well made. The packaging was also neat.,Desk Lamp,Home & Kitchen,positive,Online Store,2026-02-10,4,No
+REV0711,Really happy with this purchase. The fit works very well.,Cotton T-Shirt,Fashion,positive,Online Store,2026-06-07,4,Yes
+REV0277,The quality is disappointing and the charging speed feels cheap.,Power Bank,Electronics,negative,Online Store,2025-10-20,3,Yes
+REV0932,Disappointed with this purchase. The key feel is poor.,Mechanical Keyboard,Electronics,negative,Online Store,2026-06-02,3,Yes
+REV0373,Very satisfied overall. The fit is exactly what I needed.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2026-08-12,4,Yes
+REV1100,The face wash looks good and the scent is better than I expected.,Face Wash,Beauty,positive,Social Commerce,2025-07-19,4,Yes
+REV0894,Not worth the price. The Bluetooth connection is much worse than expected.,Wireless Earbuds,Electronics,negative,Online Store,2025-10-17,3,Yes
+REV0461,"It arrived, but the charging speed was already damaged.",USB-C Charger,Electronics,negative,Social Commerce,2025-06-05,2,No
+REV0150,I would buy this again. The zipper quality is a nice touch.,Backpack,Fashion,positive,Social Commerce,2026-03-09,5,Yes
+REV0449,The backpack is usable and matches the description. I am undecided about the storage space. I will update my opinion after more use.,Backpack,Fashion,neutral,Online Store,2025-01-07,4,Yes
+REV0424,"The power bank has a nice design, but the size is too unreliable for me.",Power Bank,Electronics,negative,Social Commerce,2026-06-28,1,Yes
+REV0844,Arrived on time and works as described. The typing response is great.,Mechanical Keyboard,Electronics,positive,Social Commerce,2026-01-31,5,Yes
+REV0074,No major issue so far. The heat distribution is neither impressive nor disappointing. Delivery took a normal amount of time.,Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-02-03,3,Yes
+REV0261,Packaging was fine and delivery was on schedule. I am still testing the size. Delivery took a normal amount of time.,Coffee Mug,Home & Kitchen,neutral,Online Store,2025-12-07,3,Yes
+REV0222,The sunglasses is okay for now. I need more time to judge the lens quality.,Sunglasses,Fashion,neutral,Social Commerce,2026-03-24,4,Yes
+REV0026,"It looks nice at first, although the lid design does not meet my expectations.",Water Bottle,Home & Kitchen,negative,Online Store,2025-02-24,3,Yes
+REV0536,"The phone case looks fine, but the button access stopped working quickly.",Phone Case,Accessories,negative,Social Commerce,2025-09-29,3,No
+REV0790,The product does not perform as advertised. The comfort is especially weak.,Sunglasses,Fashion,negative,Social Commerce,2026-02-20,2,Yes
+REV0630,"I expected a basic product, but the sound quality turned out to be surprisingly good.",Wireless Earbuds,Electronics,positive,Social Commerce,2025-01-07,5,Yes
+REV0318,Not worth the price. The stability is much worse than expected.,Laptop Stand,Electronics,negative,Online Store,2025-10-29,2,Yes
+REV0483,Packaging was fine and delivery was on schedule. I am still testing the button access.,Phone Case,Accessories,neutral,Social Commerce,2025-10-13,4,Yes
+REV0413,Arrived on time and works as described. The size is great.,Coffee Mug,Home & Kitchen,positive,Online Store,2025-06-03,4,Yes
+REV1183,Good quality product and the battery life feels well made.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-04-14,5,Yes
+REV1174,I would not recommend it. The softness caused too many problems.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-07-26,1,Yes
+REV0578,I have used it for a while and the frame quality has been reliable.,Sunglasses,Fashion,positive,Online Store,2026-05-15,4,Yes
+REV0953,Packaging was fine and delivery was on schedule. I am still testing the step tracking. The packaging was standard.,Smart Watch,Electronics,neutral,Online Store,2025-09-10,3,No
+REV0297,Really happy with this purchase. The texture works very well.,Face Wash,Beauty,positive,Social Commerce,2026-01-14,4,Yes
+REV0906,I would not recommend it. The size caused too many problems.,Power Bank,Electronics,negative,Social Commerce,2025-12-14,2,Yes
+REV0543,The product does not perform as advertised. The height adjustment is especially weak.,Laptop Stand,Electronics,negative,Social Commerce,2026-02-17,2,Yes
+REV0146,"The water bottle looks fine, but the size stopped working quickly. I noticed the problem within the first week.",Water Bottle,Home & Kitchen,negative,Social Commerce,2026-07-28,2,Yes
+REV0246,The product does not perform as advertised. The softness is especially weak.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-10-21,2,Yes
+REV0621,I expected better quality. The size is the main problem.,Storage Organizer,Home & Kitchen,negative,Social Commerce,2025-09-06,2,Yes
+REV0672,Excellent value for the price. I especially like the portability.,Laptop Stand,Electronics,positive,Social Commerce,2025-04-16,5,Yes
+REV0051,"Delivery was normal. The product itself seems average, especially the sound quality. I will update my opinion after more use.",Wireless Earbuds,Electronics,neutral,Social Commerce,2025-03-19,3,Yes
+REV1075,"It arrived, but the charging speed was already damaged.",USB-C Charger,Electronics,negative,Online Store,2025-12-20,1,No
+REV0556,"I received the correct item and have used it once. So far, the cushioning seems acceptable.",Running Shoes,Fashion,neutral,Online Store,2026-07-22,3,Yes
+REV0388,Really happy with this purchase. The fit works very well.,Wireless Earbuds,Electronics,positive,Social Commerce,2025-09-03,4,No
+REV0690,I have used it for a while and the softness has been reliable.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-12-14,4,Yes
+REV0411,I would buy this again. The leak protection is a nice touch. I have used it almost every day.,Water Bottle,Home & Kitchen,positive,Online Store,2025-03-05,5,Yes
+REV0656,I had a bad experience because the softness is unreliable.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-11-21,1,Yes
+REV0538,Very satisfied overall. The texture is exactly what I needed.,Moisturizer,Beauty,positive,Social Commerce,2026-05-06,4,Yes
+REV0837,Excellent value for the price. I especially like the skin feel.,Face Wash,Beauty,positive,Online Store,2026-02-03,5,Yes
+REV0092,The product does not perform as advertised. The assembly is especially weak.,Storage Organizer,Home & Kitchen,negative,Online Store,2025-01-16,1,Yes
+REV0066,"It looks nice at first, although the skin feel does not meet my expectations.",Moisturizer,Beauty,negative,Online Store,2025-11-28,1,Yes
+REV0849,The water bottle is usable and matches the description. I am undecided about the size.,Water Bottle,Home & Kitchen,neutral,Online Store,2025-04-09,3,Yes
+REV0546,Very frustrating to use because the heat control keeps causing issues.,USB-C Charger,Electronics,negative,Social Commerce,2026-06-25,2,Yes
+REV1046,The product does not perform as advertised. The sound quality is especially weak.,Wireless Earbuds,Electronics,negative,Social Commerce,2025-09-09,1,Yes
+REV0358,"It does what it is supposed to do, although the notifications is nothing special.",Smart Watch,Electronics,neutral,Social Commerce,2026-03-14,4,Yes
+REV0792,Very satisfied overall. The battery capacity is exactly what I needed.,Power Bank,Electronics,positive,Online Store,2025-09-25,4,Yes
+REV1057,"The desk lamp is not bad, but I would not call the adjustability exceptional.",Desk Lamp,Home & Kitchen,neutral,Online Store,2025-07-05,4,Yes
+REV0134,Excellent value for the price. I especially like the packaging.,Face Wash,Beauty,positive,Online Store,2026-04-23,5,Yes
+REV0921,No major issue so far. The storage space is neither impressive nor disappointing.,Backpack,Fashion,neutral,Social Commerce,2026-03-28,3,No
+REV1009,I would buy this again. The size is a nice touch. It feels solid in hand.,Power Bank,Electronics,positive,Social Commerce,2025-09-11,4,Yes
+REV0964,I would not recommend it. The cable fit caused too many problems.,USB-C Charger,Electronics,negative,Online Store,2025-08-20,2,Yes
+REV0264,"The product looks as shown in the listing, and the softness is fairly ordinary.",Bed Sheet Set,Home & Kitchen,neutral,Social Commerce,2026-04-10,3,Yes
+REV0353,I had a bad experience because the grip is unreliable.,Phone Case,Accessories,negative,Social Commerce,2026-06-11,1,No
+REV1167,Excellent value for the price. I especially like the comfort.,Running Shoes,Fashion,positive,Online Store,2025-04-16,4,Yes
+REV0163,"I expected a basic product, but the size turned out to be surprisingly good.",Storage Organizer,Home & Kitchen,positive,Online Store,2025-04-04,4,Yes
+REV0497,This has made my daily routine easier. The fit is very convenient.,Sunglasses,Fashion,positive,Online Store,2025-05-09,4,No
+REV0825,The desk lamp is okay for now. I need more time to judge the brightness.,Desk Lamp,Home & Kitchen,neutral,Online Store,2025-08-12,3,Yes
+REV0219,"The sunglasses has a nice design, but the fit is too unreliable for me.",Sunglasses,Fashion,negative,Online Store,2025-07-15,2,Yes
+REV0958,Very frustrating to use because the insulation keeps causing issues.,Water Bottle,Home & Kitchen,negative,Social Commerce,2025-04-03,1,Yes
+REV0693,"It arrived, but the notifications was already damaged.",Smart Watch,Electronics,negative,Social Commerce,2025-04-30,3,Yes
+REV0783,Very satisfied overall. The key feel is exactly what I needed. It feels solid in hand.,Mechanical Keyboard,Electronics,positive,Online Store,2026-02-04,4,Yes
+REV0756,Good quality product and the height adjustment feels well made.,Laptop Stand,Electronics,positive,Online Store,2025-06-16,5,Yes
+REV0868,"I expected a basic product, but the build quality turned out to be surprisingly good.",Mechanical Keyboard,Electronics,positive,Social Commerce,2026-02-21,5,Yes
+REV0321,Good quality product and the comfort feels well made.,Backpack,Fashion,positive,Online Store,2025-02-17,4,Yes
+REV1176,"I expected a basic product, but the color turned out to be surprisingly good.",Cotton T-Shirt,Fashion,positive,Online Store,2026-05-06,5,Yes
+REV0498,"It arrived, but the cable fit was already damaged.",USB-C Charger,Electronics,negative,Online Store,2026-02-07,2,Yes
+REV0406,"The mechanical keyboard looks fine, but the typing response stopped working quickly.",Mechanical Keyboard,Electronics,negative,Social Commerce,2026-02-16,2,Yes
+REV0680,Pleasantly surprised by the quality. The heat control is excellent. Delivery was quick.,USB-C Charger,Electronics,positive,Social Commerce,2025-02-10,4,No
+REV0751,"It does what it is supposed to do, although the heat retention is nothing special.",Coffee Mug,Home & Kitchen,neutral,Social Commerce,2026-02-20,3,Yes
+REV0602,I have used it for a while and the comfort has been reliable.,Sunglasses,Fashion,positive,Social Commerce,2026-04-20,5,Yes
+REV0170,I have used it for a while and the fit has been reliable.,Wireless Earbuds,Electronics,positive,Social Commerce,2026-01-31,5,Yes
+REV0287,No major issue so far. The comfort is neither impressive nor disappointing.,Backpack,Fashion,neutral,Social Commerce,2025-09-12,3,No
+REV0119,"The product looks as shown in the listing, and the softness is fairly ordinary.",Bed Sheet Set,Home & Kitchen,neutral,Social Commerce,2026-05-09,3,Yes
+REV0286,"The water bottle looks fine, but the insulation stopped working quickly.",Water Bottle,Home & Kitchen,negative,Social Commerce,2026-02-03,2,No
+REV0151,Not worth the price. The key feel is much worse than expected.,Mechanical Keyboard,Electronics,negative,Online Store,2025-02-23,1,Yes
+REV0240,Not worth the price. The material is much worse than expected. I contacted support and the issue remained.,Storage Organizer,Home & Kitchen,negative,Social Commerce,2025-02-24,2,Yes
+REV0565,"I received the correct item and have used it once. So far, the fabric quality seems acceptable.",Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-03-18,3,Yes
+REV0689,"It arrived, but the volume was already damaged.",Bluetooth Speaker,Electronics,negative,Social Commerce,2025-01-03,3,Yes
+REV0644,Pleasantly surprised by the quality. The battery life is excellent.,Smart Watch,Electronics,positive,Online Store,2025-05-23,4,Yes
+REV0588,This has made my daily routine easier. The sound quality is very convenient.,Wireless Earbuds,Electronics,positive,Social Commerce,2026-05-26,4,Yes
+REV0714,I would not recommend it. The color caused too many problems.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-12-30,1,Yes
+REV0636,This has made my daily routine easier. The assembly is very convenient.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-11-24,4,Yes
+REV0395,I would buy this again. The adjustability is a nice touch.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-03-20,4,Yes
+REV0981,Excellent value for the price. I especially like the build quality. The packaging was also neat.,Power Bank,Electronics,positive,Online Store,2025-09-28,5,Yes
+REV0439,Pleasantly surprised by the quality. The size is excellent.,Water Bottle,Home & Kitchen,positive,Online Store,2026-04-29,5,No
+REV0682,The bluetooth speaker looks good and the battery life is better than I expected.,Bluetooth Speaker,Electronics,positive,Online Store,2025-11-30,5,Yes
+REV1195,"The product looks as shown in the listing, and the stability is fairly ordinary.",Laptop Stand,Electronics,neutral,Social Commerce,2025-01-23,3,No
+REV0840,The sunglasses is okay for now. I need more time to judge the comfort.,Sunglasses,Fashion,neutral,Social Commerce,2025-12-22,4,No
+REV0759,"It does what it is supposed to do, although the lid design is nothing special.",Water Bottle,Home & Kitchen,neutral,Online Store,2025-03-06,3,No
+REV0209,Arrived on time and works as described. The capacity is great.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-09-15,5,Yes
+REV0924,I have used it for a while and the fit has been reliable.,Running Shoes,Fashion,positive,Online Store,2025-10-27,4,Yes
+REV0850,Excellent value for the price. I especially like the fabric quality. Delivery was quick.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-04-13,4,Yes
+REV0052,"The wireless earbuds is okay overall; the battery life works, but there is nothing remarkable.",Wireless Earbuds,Electronics,neutral,Social Commerce,2026-08-31,3,Yes
+REV0387,Pleasantly surprised by the quality. The size is excellent.,Power Bank,Electronics,positive,Online Store,2025-10-16,4,Yes
+REV0108,The size and appearance are as expected. I have not tested the frame quality much yet.,Sunglasses,Fashion,neutral,Online Store,2026-05-08,3,Yes
+REV0009,Packaging was fine and delivery was on schedule. I am still testing the material.,Storage Organizer,Home & Kitchen,neutral,Online Store,2026-08-06,3,No
+REV0797,The non-stick frying pan arrived on time. I have only used it a few times so far. The packaging was standard.,Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2026-02-08,3,No
+REV0441,Excellent value for the price. I especially like the build quality.,Mechanical Keyboard,Electronics,positive,Online Store,2025-09-17,4,Yes
+REV0496,The product does not perform as advertised. The lens quality is especially weak.,Sunglasses,Fashion,negative,Social Commerce,2025-05-23,3,Yes
+REV1157,I had a bad experience because the material is unreliable.,Storage Organizer,Home & Kitchen,negative,Social Commerce,2025-01-02,2,Yes
+REV0686,I expected better quality. The protection is the main problem.,Phone Case,Accessories,negative,Social Commerce,2026-01-17,2,No
+REV1116,I had a bad experience because the step tracking is unreliable.,Smart Watch,Electronics,negative,Online Store,2026-07-25,1,No
+REV0442,"It looks nice at first, although the size does not meet my expectations.",Power Bank,Electronics,negative,Online Store,2025-08-31,2,Yes
+REV0464,The wireless earbuds is usable and matches the description. I am undecided about the battery life.,Wireless Earbuds,Electronics,neutral,Social Commerce,2025-02-07,3,Yes
+REV1095,"The usb-c charger looks fine, but the heat control stopped working quickly. I contacted support and the issue remained.",USB-C Charger,Electronics,negative,Social Commerce,2025-11-19,1,No
+REV0916,"Delivery was normal. The product itself seems average, especially the grip.",Phone Case,Accessories,neutral,Social Commerce,2025-08-16,3,No
+REV0058,"It does what it is supposed to do, although the straps is nothing special.",Backpack,Fashion,neutral,Social Commerce,2025-08-09,3,No
+REV0785,Very frustrating to use because the backlight keeps causing issues.,Mechanical Keyboard,Electronics,negative,Social Commerce,2025-10-10,1,No
+REV1027,"The usb-c charger has a nice design, but the cable fit is too unreliable for me.",USB-C Charger,Electronics,negative,Social Commerce,2026-08-06,1,Yes
+REV0116,The non-stick frying pan arrived on time. I have only used it a few times so far.,Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-03-04,4,No
+REV0113,This has made my daily routine easier. The cable fit is very convenient. The packaging was also neat.,USB-C Charger,Electronics,positive,Online Store,2025-11-23,5,No
+REV0992,I have used it for a while and the adjustability has been reliable.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-03-11,5,Yes
+REV0343,Excellent value for the price. I especially like the lid design. The packaging was also neat.,Water Bottle,Home & Kitchen,positive,Social Commerce,2025-12-08,5,Yes
+REV0485,"The product looks as shown in the listing, and the build quality is fairly ordinary. Delivery took a normal amount of time.",Laptop Stand,Electronics,neutral,Social Commerce,2026-07-29,3,Yes
+REV0502,Arrived on time and works as described. The comfort is great.,Running Shoes,Fashion,positive,Social Commerce,2026-05-06,4,Yes
+REV1049,I would buy this again. The grip is a nice touch.,Phone Case,Accessories,positive,Social Commerce,2026-02-06,5,Yes
+REV0869,"Delivery was normal. The product itself seems average, especially the size.",Water Bottle,Home & Kitchen,neutral,Social Commerce,2026-04-06,3,Yes
+REV0260,Very satisfied overall. The button access is exactly what I needed.,Phone Case,Accessories,positive,Online Store,2026-04-03,4,No
+REV1136,I had a bad experience because the fit is unreliable.,Sunglasses,Fashion,negative,Online Store,2025-11-27,2,Yes
+REV0632,"Delivery was normal. The product itself seems average, especially the handle. Nothing unusual was noticed during delivery.",Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-01-24,3,Yes
+REV0126,"Delivery was normal. The product itself seems average, especially the heat control.",USB-C Charger,Electronics,neutral,Online Store,2025-08-10,3,Yes
+REV1121,Excellent value for the price. I especially like the brightness.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-03-04,5,Yes
+REV0416,"It arrived, but the skin feel was already damaged.",Face Wash,Beauty,negative,Online Store,2026-03-11,2,No
+REV0226,Disappointed with this purchase. The switch is poor. I noticed the problem within the first week.,Desk Lamp,Home & Kitchen,negative,Online Store,2025-01-04,1,No
+REV0410,I have used it for a while and the Bluetooth connection has been reliable. I have used it almost every day.,Wireless Earbuds,Electronics,positive,Online Store,2025-05-15,4,Yes
+REV0314,This has made my daily routine easier. The fabric quality is very convenient.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-06-04,4,No
+REV0963,The coffee mug looks good and the finish is better than I expected.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-11-25,5,Yes
+REV0290,This has made my daily routine easier. The key feel is very convenient.,Mechanical Keyboard,Electronics,positive,Online Store,2025-08-13,5,Yes
+REV0312,Disappointed with this purchase. The size is poor.,Water Bottle,Home & Kitchen,negative,Online Store,2025-11-11,2,Yes
+REV0535,I would buy this again. The weight is a nice touch. The packaging was also neat.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-08-17,5,Yes
+REV0335,Arrived on time and works as described. The fabric quality is great. It feels solid in hand.,Cotton T-Shirt,Fashion,positive,Social Commerce,2025-12-17,4,Yes
+REV1152,I had a bad experience because the backlight is unreliable.,Mechanical Keyboard,Electronics,negative,Online Store,2025-06-01,2,Yes
+REV0946,Excellent value for the price. I especially like the build quality.,USB-C Charger,Electronics,positive,Online Store,2025-05-01,5,Yes
+REV0814,Pleasantly surprised by the quality. The notifications is excellent. It feels solid in hand.,Smart Watch,Electronics,positive,Social Commerce,2026-02-16,4,Yes
+REV0884,I would not recommend it. The Bluetooth connection caused too many problems.,Bluetooth Speaker,Electronics,negative,Social Commerce,2025-04-11,2,Yes
+REV0122,This has made my daily routine easier. The portability is very convenient.,Laptop Stand,Electronics,positive,Social Commerce,2026-02-21,4,Yes
+REV0037,I would not recommend it. The battery life caused too many problems.,Smart Watch,Electronics,negative,Online Store,2025-01-30,2,No
+REV0555,I expected better quality. The fit is the main problem.,Wireless Earbuds,Electronics,negative,Online Store,2025-12-25,2,Yes
+REV0107,The moisturizer arrived on time. I have only used it a few times so far.,Moisturizer,Beauty,neutral,Online Store,2025-09-16,3,No
+REV0871,Packaging was fine and delivery was on schedule. I am still testing the zipper quality. The packaging was standard.,Backpack,Fashion,neutral,Social Commerce,2026-06-29,4,Yes
+REV0236,I had a bad experience because the comfort is unreliable.,Running Shoes,Fashion,negative,Social Commerce,2025-08-06,2,No
+REV0923,"I expected a basic product, but the texture turned out to be surprisingly good.",Moisturizer,Beauty,positive,Online Store,2026-02-03,4,Yes
+REV1089,"I expected a basic product, but the portability turned out to be surprisingly good.",Laptop Stand,Electronics,positive,Social Commerce,2026-05-21,5,Yes
+REV0451,"I expected a basic product, but the design turned out to be surprisingly good.",Desk Lamp,Home & Kitchen,positive,Online Store,2025-05-23,5,Yes
+REV1101,Very satisfied overall. The heat retention is exactly what I needed.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-04-30,5,Yes
+REV1070,"The mechanical keyboard is okay overall; the typing response works, but there is nothing remarkable.",Mechanical Keyboard,Electronics,neutral,Social Commerce,2025-11-15,3,Yes
+REV1041,"I expected a basic product, but the skin feel turned out to be surprisingly good.",Moisturizer,Beauty,positive,Online Store,2026-08-06,4,No
+REV0102,I expected better quality. The texture is the main problem.,Moisturizer,Beauty,negative,Social Commerce,2025-04-21,3,Yes
+REV0575,"The product looks as shown in the listing, and the height adjustment is fairly ordinary.",Laptop Stand,Electronics,neutral,Social Commerce,2026-02-12,3,Yes
+REV0727,Packaging was fine and delivery was on schedule. I am still testing the size.,Power Bank,Electronics,neutral,Online Store,2026-06-15,4,No
+REV0933,"Delivery was normal. The product itself seems average, especially the zipper quality. Delivery took a normal amount of time.",Backpack,Fashion,neutral,Online Store,2026-01-31,3,Yes
+REV0653,Excellent value for the price. I especially like the assembly.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-10-25,4,No
+REV0893,"Delivery was normal. The product itself seems average, especially the fabric quality.",Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-11-19,4,Yes
+REV0696,"The cotton t-shirt looks fine, but the comfort stopped working quickly. I contacted support and the issue remained.",Cotton T-Shirt,Fashion,negative,Social Commerce,2026-07-11,2,Yes
+REV0688,The size and appearance are as expected. I have not tested the size much yet.,Power Bank,Electronics,neutral,Social Commerce,2026-08-02,3,Yes
+REV0097,The moisturizer is okay for now. I need more time to judge the texture.,Moisturizer,Beauty,neutral,Online Store,2025-07-02,3,No
+REV1194,Good quality product and the fabric quality feels well made.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-08-05,5,Yes
+REV0185,"The product looks as shown in the listing, and the fabric quality is fairly ordinary.",Cotton T-Shirt,Fashion,neutral,Online Store,2026-01-08,3,Yes
+REV0178,"The backpack is not perfect, but the zipper quality is quite good and useful.",Backpack,Fashion,positive,Social Commerce,2026-03-03,5,Yes
+REV0771,The laptop stand is usable and matches the description. I am undecided about the portability.,Laptop Stand,Electronics,neutral,Online Store,2026-04-07,3,Yes
+REV0046,Excellent value for the price. I especially like the insulation.,Water Bottle,Home & Kitchen,positive,Online Store,2025-09-29,5,Yes
+REV1023,Very satisfied overall. The backlight is exactly what I needed. The packaging was also neat.,Mechanical Keyboard,Electronics,positive,Online Store,2025-05-13,5,Yes
+REV0392,The product does not perform as advertised. The assembly is especially weak.,Storage Organizer,Home & Kitchen,negative,Online Store,2026-01-07,1,Yes
+REV1128,Pleasantly surprised by the quality. The leak protection is excellent.,Water Bottle,Home & Kitchen,positive,Online Store,2026-04-12,4,Yes
+REV0519,This has made my daily routine easier. The charging speed is very convenient.,Power Bank,Electronics,positive,Social Commerce,2025-06-14,5,Yes
+REV0998,Good quality product and the scent feels well made.,Face Wash,Beauty,positive,Social Commerce,2026-07-03,5,Yes
+REV0223,Good quality product and the heat control feels well made.,USB-C Charger,Electronics,positive,Online Store,2025-03-01,5,Yes
+REV0724,Packaging was fine and delivery was on schedule. I am still testing the adjustability.,Desk Lamp,Home & Kitchen,neutral,Online Store,2025-01-28,3,No
+REV0100,Pleasantly surprised by the quality. The height adjustment is excellent.,Laptop Stand,Electronics,positive,Social Commerce,2026-06-15,4,Yes
+REV0994,This has made my daily routine easier. The battery life is very convenient. Delivery was quick.,Wireless Earbuds,Electronics,positive,Social Commerce,2025-10-03,4,Yes
+REV0604,The usb-c charger looks good and the heat control is better than I expected.,USB-C Charger,Electronics,positive,Social Commerce,2026-03-28,4,Yes
+REV0031,Pleasantly surprised by the quality. The battery life is excellent.,Wireless Earbuds,Electronics,positive,Online Store,2026-01-31,5,Yes
+REV0791,"The power bank looks fine, but the build quality stopped working quickly.",Power Bank,Electronics,negative,Social Commerce,2026-08-30,1,Yes
+REV1042,"I expected a basic product, but the fit turned out to be surprisingly good.",Wireless Earbuds,Electronics,positive,Social Commerce,2026-05-10,5,Yes
+REV0609,Not worth the price. The comfort is much worse than expected.,Backpack,Fashion,negative,Social Commerce,2026-06-14,3,No
+REV0103,"The product looks as shown in the listing, and the heat control is fairly ordinary.",USB-C Charger,Electronics,neutral,Online Store,2025-09-15,3,Yes
+REV0243,The running shoes is usable and matches the description. I am undecided about the fit.,Running Shoes,Fashion,neutral,Online Store,2025-07-23,3,Yes
+REV0199,The product does not perform as advertised. The cable fit is especially weak.,USB-C Charger,Electronics,negative,Social Commerce,2025-12-02,2,No
+REV0409,Excellent value for the price. I especially like the material. It feels solid in hand.,Storage Organizer,Home & Kitchen,positive,Online Store,2025-05-05,5,Yes
+REV0473,"I received the correct item and have used it once. So far, the skin feel seems acceptable.",Face Wash,Beauty,neutral,Social Commerce,2026-05-31,3,Yes
+REV0054,"It arrived, but the comfort was already damaged.",Cotton T-Shirt,Fashion,negative,Online Store,2025-08-19,1,No
+REV0638,This has made my daily routine easier. The skin feel is very convenient.,Face Wash,Beauty,positive,Online Store,2026-02-11,5,Yes
+REV0083,I have used it for a while and the non-stick coating has been reliable.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-05-28,4,Yes
+REV0274,Excellent value for the price. I especially like the switch.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-06-27,5,No
+REV0913,I expected better quality. The battery life is the main problem.,Bluetooth Speaker,Electronics,negative,Social Commerce,2026-08-19,3,Yes
+REV0730,The product does not perform as advertised. The lens quality is especially weak.,Sunglasses,Fashion,negative,Online Store,2025-07-07,1,Yes
+REV0038,"It arrived, but the lens quality was already damaged.",Sunglasses,Fashion,negative,Online Store,2025-11-15,3,Yes
+REV0160,Disappointed with this purchase. The battery life is poor.,Smart Watch,Electronics,negative,Online Store,2025-09-27,3,Yes
+REV0307,Excellent value for the price. I especially like the size.,Water Bottle,Home & Kitchen,positive,Online Store,2025-03-21,4,Yes
+REV0775,"The product looks as shown in the listing, and the height adjustment is fairly ordinary.",Laptop Stand,Electronics,neutral,Social Commerce,2025-05-01,3,Yes
+REV0300,Arrived on time and works as described. The sound quality is great.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-06-21,5,Yes
+REV0742,Really happy with this purchase. The comfort works very well. It feels solid in hand.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-04-03,5,Yes
+REV0627,Arrived on time and works as described. The packaging is great. I have used it almost every day.,Face Wash,Beauty,positive,Online Store,2025-05-25,4,Yes
+REV1074,No major issue so far. The material is neither impressive nor disappointing.,Storage Organizer,Home & Kitchen,neutral,Online Store,2026-02-22,4,Yes
+REV0161,Excellent value for the price. I especially like the fit.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-05-24,4,Yes
+REV0154,Good quality product and the comfort feels well made.,Sunglasses,Fashion,positive,Social Commerce,2025-07-31,4,Yes
+REV1110,Really happy with this purchase. The grip works very well.,Phone Case,Accessories,positive,Online Store,2025-08-21,4,Yes
+REV0288,Very satisfied overall. The fit is exactly what I needed.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-10-22,5,Yes
+REV0322,"I received the correct item and have used it once. So far, the color seems acceptable.",Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-04-04,3,Yes
+REV0514,I have used it for a while and the handle has been reliable.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-03-26,5,Yes
+REV1004,The backpack arrived on time. I have only used it a few times so far. The packaging was standard.,Backpack,Fashion,neutral,Social Commerce,2025-01-28,4,Yes
+REV1162,I would buy this again. The size is a nice touch.,Coffee Mug,Home & Kitchen,positive,Online Store,2025-12-10,4,Yes
+REV0530,"Delivery was normal. The product itself seems average, especially the insulation.",Water Bottle,Home & Kitchen,neutral,Social Commerce,2025-01-12,3,Yes
+REV0094,The quality is disappointing and the heat control feels cheap.,USB-C Charger,Electronics,negative,Social Commerce,2026-03-27,1,No
+REV0988,"The running shoes looks fine, but the grip stopped working quickly.",Running Shoes,Fashion,negative,Online Store,2025-05-07,1,Yes
+REV0957,Very satisfied overall. The heat retention is exactly what I needed. Delivery was quick.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-01-22,5,Yes
+REV1078,"It looks nice at first, although the straps does not meet my expectations.",Backpack,Fashion,negative,Online Store,2026-07-29,2,Yes
+REV0180,The power bank is usable and matches the description. I am undecided about the battery capacity.,Power Bank,Electronics,neutral,Online Store,2026-08-25,4,No
+REV0040,I would buy this again. The cable fit is a nice touch.,USB-C Charger,Electronics,positive,Online Store,2026-05-26,4,Yes
+REV0368,The product does not perform as advertised. The build quality is especially weak.,Laptop Stand,Electronics,negative,Online Store,2025-08-21,1,Yes
+REV0096,The size and appearance are as expected. I have not tested the fit much yet. I will update my opinion after more use.,Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-08-05,3,Yes
+REV1104,"The power bank is okay overall; the build quality works, but there is nothing remarkable.",Power Bank,Electronics,neutral,Social Commerce,2025-07-11,3,Yes
+REV0025,"The face wash is not bad, but I would not call the skin feel exceptional. The packaging was standard.",Face Wash,Beauty,neutral,Online Store,2026-08-30,3,No
+REV1000,I expected better quality. The assembly is the main problem.,Storage Organizer,Home & Kitchen,negative,Social Commerce,2026-04-25,2,Yes
+REV0765,Very satisfied overall. The handle is exactly what I needed.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-07-17,4,Yes
+REV0629,The quality is disappointing and the insulation feels cheap. I noticed the problem within the first week.,Water Bottle,Home & Kitchen,negative,Social Commerce,2025-06-11,2,Yes
+REV0971,I have used it for a while and the build quality has been reliable. It feels solid in hand.,Power Bank,Electronics,positive,Online Store,2025-04-02,4,Yes
+REV0157,The usb-c charger arrived on time. I have only used it a few times so far.,USB-C Charger,Electronics,neutral,Social Commerce,2025-05-24,4,Yes
+REV0229,I expected better quality. The fit is the main problem.,Running Shoes,Fashion,negative,Online Store,2025-06-20,1,Yes
+REV0650,Excellent value for the price. I especially like the button access.,Phone Case,Accessories,positive,Online Store,2025-08-23,4,Yes
+REV0304,Arrived on time and works as described. The zipper quality is great.,Backpack,Fashion,positive,Online Store,2026-02-22,4,Yes
+REV0729,"The phone case is okay overall; the button access works, but there is nothing remarkable.",Phone Case,Accessories,neutral,Social Commerce,2025-04-25,3,Yes
+REV1181,The size and appearance are as expected. I have not tested the heat distribution much yet.,Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2025-12-11,3,Yes
+REV0997,Disappointed with this purchase. The grip is poor.,Running Shoes,Fashion,negative,Online Store,2025-01-28,2,Yes
+REV0531,Good quality product and the handle feels well made. It feels solid in hand.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-03-17,4,Yes
+REV1011,The product does not perform as advertised. The heat distribution is especially weak.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2025-12-12,1,Yes
+REV0744,Very frustrating to use because the finish keeps causing issues.,Coffee Mug,Home & Kitchen,negative,Online Store,2025-06-30,1,Yes
+REV0898,"I received the correct item and have used it once. So far, the step tracking seems acceptable.",Smart Watch,Electronics,neutral,Online Store,2025-12-23,3,Yes
+REV0053,No major issue so far. The scent is neither impressive nor disappointing.,Moisturizer,Beauty,neutral,Social Commerce,2026-01-21,3,Yes
+REV0210,I would buy this again. The build quality is a nice touch.,Mechanical Keyboard,Electronics,positive,Online Store,2026-04-09,5,Yes
+REV0431,Good quality product and the fabric quality feels well made.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-02-05,4,Yes
+REV0698,"Delivery was normal. The product itself seems average, especially the build quality.",Laptop Stand,Electronics,neutral,Online Store,2026-07-10,4,Yes
+REV0685,"It arrived, but the scent was already damaged.",Moisturizer,Beauty,negative,Online Store,2026-02-26,1,Yes
+REV0746,"It arrived, but the battery capacity was already damaged.",Power Bank,Electronics,negative,Social Commerce,2026-05-23,2,Yes
+REV0005,I have used it for a while and the step tracking has been reliable.,Smart Watch,Electronics,positive,Online Store,2025-08-13,4,Yes
+REV0093,"The wireless earbuds is not bad, but I would not call the Bluetooth connection exceptional. The packaging was standard.",Wireless Earbuds,Electronics,neutral,Social Commerce,2025-05-17,3,Yes
+REV0881,Very frustrating to use because the scent keeps causing issues. Delivery was not the main problem.,Face Wash,Beauty,negative,Online Store,2026-02-08,1,Yes
+REV0020,The size and appearance are as expected. I have not tested the heat distribution much yet.,Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2026-02-28,3,Yes
+REV1146,No major issue so far. The zipper quality is neither impressive nor disappointing.,Backpack,Fashion,neutral,Online Store,2025-12-31,4,No
+REV0369,The coffee mug is usable and matches the description. I am undecided about the heat retention.,Coffee Mug,Home & Kitchen,neutral,Social Commerce,2026-02-09,3,Yes
+REV0491,"It does what it is supposed to do, although the lens quality is nothing special.",Sunglasses,Fashion,neutral,Social Commerce,2026-04-23,3,No
+REV0542,Very satisfied overall. The build quality is exactly what I needed. Delivery was quick.,Mechanical Keyboard,Electronics,positive,Social Commerce,2026-03-03,4,Yes
+REV0370,"The product looks as shown in the listing, and the zipper quality is fairly ordinary.",Backpack,Fashion,neutral,Social Commerce,2026-01-13,3,Yes
+REV0984,Arrived on time and works as described. The backlight is great.,Mechanical Keyboard,Electronics,positive,Online Store,2025-07-08,5,Yes
+REV0371,Very frustrating to use because the adjustability keeps causing issues.,Desk Lamp,Home & Kitchen,negative,Social Commerce,2026-01-05,2,Yes
+REV0064,I had a bad experience because the design is unreliable.,Desk Lamp,Home & Kitchen,negative,Online Store,2025-04-09,2,No
+REV0960,This has made my daily routine easier. The charging speed is very convenient.,Power Bank,Electronics,positive,Online Store,2026-03-18,4,Yes
+REV0175,I would not recommend it. The step tracking caused too many problems.,Smart Watch,Electronics,negative,Online Store,2025-10-24,1,Yes
+REV0428,Really happy with this purchase. The scent works very well.,Face Wash,Beauty,positive,Social Commerce,2025-08-01,5,Yes
+REV1200,The product does not perform as advertised. The build quality is especially weak.,Laptop Stand,Electronics,negative,Social Commerce,2026-08-29,2,No
+REV0280,I have used it for a while and the fit has been reliable.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-04-24,4,No
+REV0669,I would buy this again. The charging speed is a nice touch.,Power Bank,Electronics,positive,Social Commerce,2025-10-12,5,Yes
+REV0937,Excellent value for the price. I especially like the design.,Desk Lamp,Home & Kitchen,positive,Online Store,2026-02-06,4,Yes
+REV0899,"The smart watch looks fine, but the battery life stopped working quickly.",Smart Watch,Electronics,negative,Social Commerce,2026-05-05,1,Yes
+REV0983,Very satisfied overall. The volume is exactly what I needed.,Bluetooth Speaker,Electronics,positive,Online Store,2025-01-19,4,Yes
+REV1056,This has made my daily routine easier. The brightness is very convenient.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-08-11,5,Yes
+REV0018,The product does not perform as advertised. The build quality is especially weak.,Laptop Stand,Electronics,negative,Social Commerce,2025-10-19,2,Yes
+REV0996,Very frustrating to use because the size keeps causing issues. I noticed the problem within the first week.,Power Bank,Electronics,negative,Online Store,2025-03-12,2,Yes
+REV0024,Excellent value for the price. I especially like the weight.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-03-05,4,Yes
+REV0212,Not worth the price. The lid design is much worse than expected.,Water Bottle,Home & Kitchen,negative,Online Store,2026-06-17,3,Yes
+REV1149,"It does what it is supposed to do, although the packaging is nothing special.",Face Wash,Beauty,neutral,Online Store,2025-11-05,3,No
+REV0379,Very satisfied overall. The stability is exactly what I needed.,Laptop Stand,Electronics,positive,Online Store,2026-03-26,5,Yes
+REV0492,I have used it for a while and the fit has been reliable.,Phone Case,Accessories,positive,Social Commerce,2025-09-10,4,Yes
+REV0815,Pleasantly surprised by the quality. The straps is excellent.,Backpack,Fashion,positive,Online Store,2025-10-02,5,Yes
+REV0774,"Delivery was normal. The product itself seems average, especially the comfort.",Backpack,Fashion,neutral,Online Store,2026-04-17,4,No
+REV1064,I have used it for a while and the comfort has been reliable.,Sunglasses,Fashion,positive,Social Commerce,2026-08-29,5,Yes
+REV0421,I had a bad experience because the heat retention is unreliable.,Coffee Mug,Home & Kitchen,negative,Online Store,2025-05-28,1,Yes
+REV1010,"Delivery was normal. The product itself seems average, especially the weight.",Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2026-04-17,3,Yes
+REV0968,This has made my daily routine easier. The cushioning is very convenient.,Running Shoes,Fashion,positive,Social Commerce,2026-08-30,4,No
+REV0361,The quality is disappointing and the non-stick coating feels cheap.,Non-Stick Frying Pan,Home & Kitchen,negative,Online Store,2025-12-09,1,Yes
+REV1185,The laptop stand looks good and the stability is better than I expected. Delivery was quick.,Laptop Stand,Electronics,positive,Social Commerce,2026-04-09,5,No
+REV1155,Very frustrating to use because the softness keeps causing issues.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-08-03,1,Yes
+REV0247,"The moisturizer is not bad, but I would not call the texture exceptional.",Moisturizer,Beauty,neutral,Social Commerce,2025-08-08,4,Yes
+REV0429,"The bluetooth speaker looks fine, but the Bluetooth connection stopped working quickly.",Bluetooth Speaker,Electronics,negative,Social Commerce,2025-07-13,1,Yes
+REV1051,Disappointed with this purchase. The fit is poor.,Sunglasses,Fashion,negative,Social Commerce,2025-06-06,2,Yes
+REV0251,"The backpack has a nice design, but the straps is too unreliable for me.",Backpack,Fashion,negative,Social Commerce,2026-08-22,3,Yes
+REV0684,"The running shoes is not perfect, but the grip is quite good and useful.",Running Shoes,Fashion,positive,Social Commerce,2025-09-30,5,Yes
+REV0922,I would not recommend it. The size caused too many problems.,Coffee Mug,Home & Kitchen,negative,Social Commerce,2025-01-12,1,Yes
+REV0566,"The non-stick frying pan is not perfect, but the non-stick coating is quite good and useful.",Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-04-15,5,Yes
+REV0547,The bed sheet set looks good and the softness is better than I expected.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-08-01,5,Yes
+REV0642,Pleasantly surprised by the quality. The cushioning is excellent.,Running Shoes,Fashion,positive,Social Commerce,2026-04-01,4,Yes
+REV0560,Very frustrating to use because the heat distribution keeps causing issues.,Non-Stick Frying Pan,Home & Kitchen,negative,Online Store,2026-04-23,2,Yes
+REV0412,Excellent value for the price. I especially like the charging speed.,USB-C Charger,Electronics,positive,Online Store,2026-02-10,4,Yes
+REV1037,The quality is disappointing and the build quality feels cheap.,Laptop Stand,Electronics,negative,Online Store,2025-09-17,2,Yes
+REV0661,Very satisfied overall. The color is exactly what I needed.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-06-04,5,No
+REV1154,"It looks nice at first, although the battery capacity does not meet my expectations.",Power Bank,Electronics,negative,Online Store,2026-03-24,1,Yes
+REV0166,The quality is disappointing and the lid design feels cheap.,Water Bottle,Home & Kitchen,negative,Social Commerce,2025-06-30,3,Yes
+REV0201,The product does not perform as advertised. The Bluetooth connection is especially weak.,Wireless Earbuds,Electronics,negative,Online Store,2025-04-14,2,Yes
+REV0523,Very frustrating to use because the size keeps causing issues.,Power Bank,Electronics,negative,Online Store,2025-06-20,2,Yes
+REV0600,Really happy with this purchase. The charging speed works very well.,Power Bank,Electronics,positive,Online Store,2025-09-07,4,Yes
+REV0245,Pleasantly surprised by the quality. The heat distribution is excellent.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-02-06,5,No
+REV1134,Arrived on time and works as described. The screen is great.,Smart Watch,Electronics,positive,Online Store,2025-08-20,4,No
+REV0430,Excellent value for the price. I especially like the finish.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-03-24,5,Yes
+REV0976,"The power bank looks fine, but the battery capacity stopped working quickly.",Power Bank,Electronics,negative,Online Store,2025-02-17,1,No
+REV0533,Not worth the price. The absorption is much worse than expected.,Moisturizer,Beauty,negative,Social Commerce,2025-02-10,1,Yes
+REV0341,I would buy this again. The protection is a nice touch.,Phone Case,Accessories,positive,Online Store,2025-02-11,4,Yes
+REV0109,Disappointed with this purchase. The build quality is poor.,USB-C Charger,Electronics,negative,Social Commerce,2025-07-25,2,No
+REV0503,"The power bank has a nice design, but the charging speed is too unreliable for me.",Power Bank,Electronics,negative,Online Store,2025-06-02,2,Yes
+REV0914,"It arrived, but the size was already damaged.",Power Bank,Electronics,negative,Online Store,2026-05-28,1,No
+REV0581,I expected better quality. The battery life is the main problem.,Bluetooth Speaker,Electronics,negative,Online Store,2025-06-04,3,No
+REV0874,I would buy this again. The protection is a nice touch.,Phone Case,Accessories,positive,Online Store,2025-05-13,4,Yes
+REV0979,I would not recommend it. The build quality caused too many problems.,Laptop Stand,Electronics,negative,Social Commerce,2025-11-05,1,Yes
+REV0003,This has made my daily routine easier. The design is very convenient.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-05-26,4,Yes
+REV0125,This has made my daily routine easier. The fit is very convenient.,Wireless Earbuds,Electronics,positive,Social Commerce,2026-05-23,4,Yes
+REV0873,Not worth the price. The sound quality is much worse than expected.,Bluetooth Speaker,Electronics,negative,Online Store,2026-07-22,3,Yes
+REV0351,Very satisfied overall. The weight is exactly what I needed.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-08-14,4,Yes
+REV1016,"It does what it is supposed to do, although the frame quality is nothing special.",Sunglasses,Fashion,neutral,Online Store,2025-06-13,3,Yes
+REV0915,The desk lamp is okay for now. I need more time to judge the switch.,Desk Lamp,Home & Kitchen,neutral,Online Store,2026-02-16,3,Yes
+REV1129,Packaging was fine and delivery was on schedule. I am still testing the portability.,Laptop Stand,Electronics,neutral,Social Commerce,2025-09-02,4,Yes
+REV0784,Very satisfied overall. The typing response is exactly what I needed.,Mechanical Keyboard,Electronics,positive,Online Store,2026-01-03,4,Yes
+REV0940,The mechanical keyboard is usable and matches the description. I am undecided about the typing response.,Mechanical Keyboard,Electronics,neutral,Social Commerce,2025-12-05,4,Yes
+REV0078,Very frustrating to use because the notifications keeps causing issues.,Smart Watch,Electronics,negative,Online Store,2025-02-13,2,No
+REV1031,The sunglasses is okay for now. I need more time to judge the lens quality.,Sunglasses,Fashion,neutral,Online Store,2026-07-21,3,Yes
+REV0086,The smart watch looks good and the step tracking is better than I expected.,Smart Watch,Electronics,positive,Social Commerce,2025-06-28,5,No
+REV1113,Really happy with this purchase. The build quality works very well. It feels solid in hand.,Power Bank,Electronics,positive,Social Commerce,2026-08-18,4,No
+REV1175,I would not recommend it. The switch caused too many problems.,Desk Lamp,Home & Kitchen,negative,Social Commerce,2025-11-27,1,Yes
+REV1054,The quality is disappointing and the color feels cheap.,Bed Sheet Set,Home & Kitchen,negative,Online Store,2025-11-12,2,No
+REV1029,Not worth the price. The handle is much worse than expected.,Non-Stick Frying Pan,Home & Kitchen,negative,Online Store,2026-07-08,1,Yes
+REV1151,No major issue so far. The brightness is neither impressive nor disappointing.,Desk Lamp,Home & Kitchen,neutral,Online Store,2026-02-14,3,Yes
+REV0279,Arrived on time and works as described. The key feel is great.,Mechanical Keyboard,Electronics,positive,Social Commerce,2025-02-25,5,Yes
+REV0173,No major issue so far. The fit is neither impressive nor disappointing. I will update my opinion after more use.,Bed Sheet Set,Home & Kitchen,neutral,Social Commerce,2025-08-31,3,No
+REV0401,Arrived on time and works as described. The comfort is great.,Running Shoes,Fashion,positive,Social Commerce,2026-05-01,4,Yes
+REV0095,Arrived on time and works as described. The softness is great.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-07-20,4,No
+REV0065,The backpack looks good and the zipper quality is better than I expected. Delivery was quick.,Backpack,Fashion,positive,Online Store,2025-03-01,5,Yes
+REV0217,I have used it for a while and the switch has been reliable.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-04-20,4,Yes
+REV0841,Not worth the price. The notifications is much worse than expected.,Smart Watch,Electronics,negative,Social Commerce,2026-05-13,1,Yes
+REV0334,Excellent value for the price. I especially like the comfort.,Cotton T-Shirt,Fashion,positive,Online Store,2025-03-31,5,Yes
+REV0332,Excellent value for the price. I especially like the brightness.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-07-23,5,Yes
+REV0692,The cotton t-shirt arrived on time. I have only used it a few times so far.,Cotton T-Shirt,Fashion,neutral,Online Store,2026-02-18,3,Yes
+REV1003,"It does what it is supposed to do, although the fit is nothing special.",Running Shoes,Fashion,neutral,Social Commerce,2025-08-05,3,No
+REV0858,"It arrived, but the finish was already damaged. I contacted support and the issue remained.",Coffee Mug,Home & Kitchen,negative,Social Commerce,2025-03-25,3,Yes
+REV0687,The mechanical keyboard looks good and the key feel is better than I expected. It feels solid in hand.,Mechanical Keyboard,Electronics,positive,Online Store,2025-05-19,4,No
+REV0457,Packaging was fine and delivery was on schedule. I am still testing the leak protection.,Water Bottle,Home & Kitchen,neutral,Social Commerce,2026-01-23,3,Yes
+REV0753,Good quality product and the adjustability feels well made.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-05-25,4,No
+REV0041,Arrived on time and works as described. The packaging is great.,Face Wash,Beauty,positive,Social Commerce,2025-01-06,4,No
+REV0970,"The sunglasses looks fine, but the comfort stopped working quickly.",Sunglasses,Fashion,negative,Social Commerce,2025-04-18,3,No
+REV0705,"The cotton t-shirt is not perfect, but the color is quite good and useful.",Cotton T-Shirt,Fashion,positive,Social Commerce,2025-05-26,4,Yes
+REV0301,I would not recommend it. The build quality caused too many problems.,USB-C Charger,Electronics,negative,Online Store,2025-08-11,1,No
+REV0155,Very satisfied overall. The comfort is exactly what I needed.,Sunglasses,Fashion,positive,Online Store,2025-06-13,5,Yes
+REV0938,Arrived on time and works as described. The notifications is great.,Smart Watch,Electronics,positive,Social Commerce,2025-02-04,5,Yes
+REV0089,Very satisfied overall. The cushioning is exactly what I needed.,Running Shoes,Fashion,positive,Social Commerce,2025-04-11,5,Yes
+REV1067,Really happy with this purchase. The battery life works very well.,Smart Watch,Electronics,positive,Online Store,2025-08-02,5,Yes
+REV0637,Excellent value for the price. I especially like the non-stick coating.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-07-30,5,Yes
+REV0670,Disappointed with this purchase. The lens quality is poor. Delivery was not the main problem.,Sunglasses,Fashion,negative,Social Commerce,2026-02-24,2,Yes
+REV0843,"I received the correct item and have used it once. So far, the height adjustment seems acceptable.",Laptop Stand,Electronics,neutral,Online Store,2026-04-17,3,Yes
+REV0648,This has made my daily routine easier. The charging speed is very convenient.,USB-C Charger,Electronics,positive,Online Store,2025-05-30,4,Yes
+REV0529,This has made my daily routine easier. The texture is very convenient. I have used it almost every day.,Face Wash,Beauty,positive,Online Store,2026-05-31,5,Yes
+REV0552,No major issue so far. The build quality is neither impressive nor disappointing.,USB-C Charger,Electronics,neutral,Social Commerce,2026-03-04,3,Yes
+REV0708,"The laptop stand looks fine, but the portability stopped working quickly. Delivery was not the main problem.",Laptop Stand,Electronics,negative,Online Store,2026-04-18,1,Yes
+REV0470,This has made my daily routine easier. The storage space is very convenient.,Backpack,Fashion,positive,Online Store,2026-06-01,4,Yes
+REV0607,Pleasantly surprised by the quality. The scent is excellent.,Face Wash,Beauty,positive,Online Store,2026-03-04,4,Yes
+REV1119,I would not recommend it. The notifications caused too many problems.,Smart Watch,Electronics,negative,Online Store,2026-05-26,1,Yes
+REV0532,"The storage organizer looks fine, but the capacity stopped working quickly.",Storage Organizer,Home & Kitchen,negative,Online Store,2026-02-28,1,Yes
+REV1045,"Not worth the price. The heat retention is much worse than expected. The packaging looked fine, but the product was not.",Coffee Mug,Home & Kitchen,negative,Online Store,2025-10-06,2,Yes
+REV0579,Very frustrating to use because the typing response keeps causing issues. I contacted support and the issue remained.,Mechanical Keyboard,Electronics,negative,Social Commerce,2025-02-02,2,Yes
+REV0138,Good quality product and the comfort feels well made.,Sunglasses,Fashion,positive,Social Commerce,2025-09-08,5,Yes
+REV0232,The cotton t-shirt arrived on time. I have only used it a few times so far.,Cotton T-Shirt,Fashion,neutral,Online Store,2026-02-26,3,Yes
+REV1153,The face wash arrived on time. I have only used it a few times so far.,Face Wash,Beauty,neutral,Social Commerce,2025-05-17,3,No
+REV0137,The size and appearance are as expected. I have not tested the Bluetooth connection much yet.,Bluetooth Speaker,Electronics,neutral,Online Store,2025-08-12,3,Yes
+REV0928,Really happy with this purchase. The lens quality works very well.,Sunglasses,Fashion,positive,Online Store,2025-06-28,4,Yes
+REV0554,Arrived on time and works as described. The volume is great.,Bluetooth Speaker,Electronics,positive,Online Store,2026-01-28,4,Yes
+REV0167,"The laptop stand is not perfect, but the build quality is quite good and useful.",Laptop Stand,Electronics,positive,Online Store,2025-06-16,5,Yes
+REV0935,The backpack looks good and the straps is better than I expected.,Backpack,Fashion,positive,Social Commerce,2025-05-14,4,No
+REV0085,Really happy with this purchase. The typing response works very well.,Mechanical Keyboard,Electronics,positive,Online Store,2025-12-18,4,Yes
+REV0164,Not worth the price. The cable fit is much worse than expected.,USB-C Charger,Electronics,negative,Social Commerce,2025-01-17,2,Yes
+REV1190,Really happy with this purchase. The fabric quality works very well. The packaging was also neat.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-06-06,4,Yes
+REV1150,The phone case is usable and matches the description. I am undecided about the fit.,Phone Case,Accessories,neutral,Online Store,2025-02-19,3,Yes
+REV0152,"It arrived, but the comfort was already damaged.",Running Shoes,Fashion,negative,Online Store,2025-01-11,3,Yes
+REV0141,"I received the correct item and have used it once. So far, the portability seems acceptable. Delivery took a normal amount of time.",Laptop Stand,Electronics,neutral,Online Store,2025-02-14,4,Yes
+REV0062,"The bluetooth speaker looks fine, but the sound quality stopped working quickly.",Bluetooth Speaker,Electronics,negative,Social Commerce,2026-08-08,3,No
+REV1168,The face wash is usable and matches the description. I am undecided about the scent.,Face Wash,Beauty,neutral,Online Store,2025-04-09,3,Yes
+REV0124,I would buy this again. The size is a nice touch.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-08-17,4,Yes
+REV0948,I would not recommend it. The volume caused too many problems. I contacted support and the issue remained.,Bluetooth Speaker,Electronics,negative,Social Commerce,2026-01-23,1,Yes
+REV0200,I expected better quality. The build quality is the main problem.,USB-C Charger,Electronics,negative,Social Commerce,2025-12-12,1,Yes
+REV1125,I would not recommend it. The softness caused too many problems.,Bed Sheet Set,Home & Kitchen,negative,Online Store,2026-04-16,3,Yes
+REV0646,"The moisturizer is not perfect, but the absorption is quite good and useful.",Moisturizer,Beauty,positive,Online Store,2025-05-23,5,Yes
+REV0472,"The product looks as shown in the listing, and the comfort is fairly ordinary.",Backpack,Fashion,neutral,Online Store,2025-05-25,3,Yes
+REV1022,This has made my daily routine easier. The fit is very convenient.,Running Shoes,Fashion,positive,Social Commerce,2025-02-14,5,Yes
+REV1169,The size and appearance are as expected. I have not tested the build quality much yet. Nothing unusual was noticed during delivery.,Mechanical Keyboard,Electronics,neutral,Online Store,2026-02-17,3,No
+REV0598,I would not recommend it. The comfort caused too many problems.,Sunglasses,Fashion,negative,Online Store,2025-06-10,2,Yes
+REV1063,I would buy this again. The softness is a nice touch.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-06-16,5,Yes
+REV0605,This has made my daily routine easier. The heat control is very convenient.,USB-C Charger,Electronics,positive,Online Store,2026-01-25,4,Yes
+REV0973,"The face wash is okay overall; the skin feel works, but there is nothing remarkable. I will update my opinion after more use.",Face Wash,Beauty,neutral,Social Commerce,2025-04-24,3,Yes
+REV0796,I would buy this again. The comfort is a nice touch.,Backpack,Fashion,positive,Online Store,2025-11-25,5,Yes
+REV0880,Very satisfied overall. The skin feel is exactly what I needed.,Face Wash,Beauty,positive,Online Store,2026-01-01,5,No
+REV0950,I would buy this again. The frame quality is a nice touch.,Sunglasses,Fashion,positive,Online Store,2025-04-07,4,Yes
+REV0427,"I expected a basic product, but the charging speed turned out to be surprisingly good.",USB-C Charger,Electronics,positive,Online Store,2025-12-23,4,Yes
+REV1138,Arrived on time and works as described. The handle is great. It feels solid in hand.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2026-06-09,4,Yes
+REV0851,The usb-c charger is okay for now. I need more time to judge the heat control.,USB-C Charger,Electronics,neutral,Online Store,2026-01-28,3,Yes
+REV0196,I would buy this again. The fit is a nice touch. It feels solid in hand.,Phone Case,Accessories,positive,Online Store,2026-08-01,4,Yes
+REV0476,Very satisfied overall. The fabric quality is exactly what I needed.,Cotton T-Shirt,Fashion,positive,Online Store,2025-10-09,4,Yes
+REV0349,"Delivery was normal. The product itself seems average, especially the button access.",Phone Case,Accessories,neutral,Social Commerce,2025-11-05,4,No
+REV0720,"Delivery was normal. The product itself seems average, especially the sound quality.",Bluetooth Speaker,Electronics,neutral,Online Store,2026-01-16,3,Yes
+REV1035,The non-stick frying pan looks good and the weight is better than I expected.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2026-08-15,5,Yes
+REV1007,I had a bad experience because the backlight is unreliable.,Mechanical Keyboard,Electronics,negative,Online Store,2026-06-21,3,Yes
+REV0929,"The desk lamp is not perfect, but the brightness is quite good and useful.",Desk Lamp,Home & Kitchen,positive,Online Store,2026-01-01,4,Yes
+REV0832,"It arrived, but the sound quality was already damaged.",Bluetooth Speaker,Electronics,negative,Online Store,2025-03-31,2,Yes
+REV0016,"I had a bad experience because the comfort is unreliable. The packaging looked fine, but the product was not.",Cotton T-Shirt,Fashion,negative,Social Commerce,2026-06-30,2,Yes
+REV0467,I had a bad experience because the frame quality is unreliable.,Sunglasses,Fashion,negative,Social Commerce,2026-01-09,1,No
+REV0215,The bed sheet set arrived on time. I have only used it a few times so far.,Bed Sheet Set,Home & Kitchen,neutral,Social Commerce,2026-03-24,3,Yes
+REV0641,The product does not perform as advertised. The key feel is especially weak. I noticed the problem within the first week.,Mechanical Keyboard,Electronics,negative,Social Commerce,2025-09-27,2,Yes
+REV0269,"I received the correct item and have used it once. So far, the charging speed seems acceptable.",Power Bank,Electronics,neutral,Online Store,2026-07-26,4,Yes
+REV0468,"The water bottle is not perfect, but the size is quite good and useful.",Water Bottle,Home & Kitchen,positive,Social Commerce,2026-08-14,5,Yes
+REV0299,The bluetooth speaker looks good and the battery life is better than I expected.,Bluetooth Speaker,Electronics,positive,Online Store,2026-05-07,5,Yes
+REV0864,The quality is disappointing and the adjustability feels cheap.,Desk Lamp,Home & Kitchen,negative,Online Store,2025-02-13,2,Yes
+REV0585,The size and appearance are as expected. I have not tested the build quality much yet.,Laptop Stand,Electronics,neutral,Online Store,2026-04-01,3,Yes
+REV0362,I would not recommend it. The charging speed caused too many problems.,Power Bank,Electronics,negative,Social Commerce,2025-04-30,1,Yes
+REV0091,Arrived on time and works as described. The size is great. I have used it almost every day.,Power Bank,Electronics,positive,Online Store,2026-02-09,5,No
+REV0574,This has made my daily routine easier. The build quality is very convenient.,Power Bank,Electronics,positive,Online Store,2026-01-30,4,Yes
+REV0975,Good quality product and the fabric quality feels well made.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-01-28,5,No
+REV1164,Disappointed with this purchase. The key feel is poor.,Mechanical Keyboard,Electronics,negative,Online Store,2026-07-13,1,Yes
+REV0002,"I expected a basic product, but the lid design turned out to be surprisingly good.",Water Bottle,Home & Kitchen,positive,Online Store,2025-05-30,4,Yes
+REV0509,I expected better quality. The skin feel is the main problem.,Moisturizer,Beauty,negative,Social Commerce,2025-02-18,2,Yes
+REV0912,Really happy with this purchase. The Bluetooth connection works very well.,Wireless Earbuds,Electronics,positive,Online Store,2026-06-07,4,No
+REV0511,Very satisfied overall. The screen is exactly what I needed.,Smart Watch,Electronics,positive,Social Commerce,2026-01-31,5,Yes
+REV0699,The product does not perform as advertised. The straps is especially weak.,Backpack,Fashion,negative,Online Store,2026-06-24,3,No
+REV0654,Pleasantly surprised by the quality. The weight is excellent.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-04-11,4,Yes
+REV0655,I would buy this again. The comfort is a nice touch.,Cotton T-Shirt,Fashion,positive,Online Store,2025-12-03,5,Yes
+REV0827,The size and appearance are as expected. I have not tested the battery life much yet. The packaging was standard.,Smart Watch,Electronics,neutral,Social Commerce,2025-01-18,3,Yes
+REV0469,The quality is disappointing and the button access feels cheap.,Phone Case,Accessories,negative,Social Commerce,2025-12-23,2,Yes
+REV0329,The backpack is usable and matches the description. I am undecided about the zipper quality.,Backpack,Fashion,neutral,Social Commerce,2026-08-06,3,Yes
+REV0284,The bed sheet set arrived on time. I have only used it a few times so far.,Bed Sheet Set,Home & Kitchen,neutral,Online Store,2025-03-11,3,No
+REV0683,"I expected a basic product, but the cushioning turned out to be surprisingly good.",Running Shoes,Fashion,positive,Online Store,2025-11-14,4,Yes
+REV0400,I expected better quality. The storage space is the main problem. I contacted support and the issue remained.,Backpack,Fashion,negative,Online Store,2025-06-08,2,Yes
+REV0377,Really happy with this purchase. The material works very well.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2026-06-11,5,Yes
+REV0333,The product does not perform as advertised. The design is especially weak.,Desk Lamp,Home & Kitchen,negative,Social Commerce,2026-06-13,2,No
+REV0366,The product does not perform as advertised. The frame quality is especially weak.,Sunglasses,Fashion,negative,Social Commerce,2025-10-30,2,Yes
+REV0589,Disappointed with this purchase. The battery capacity is poor.,Power Bank,Electronics,negative,Social Commerce,2026-05-19,1,Yes
+REV1135,The power bank arrived on time. I have only used it a few times so far.,Power Bank,Electronics,neutral,Social Commerce,2026-07-04,3,Yes
+REV0848,Very satisfied overall. The height adjustment is exactly what I needed.,Laptop Stand,Electronics,positive,Social Commerce,2025-04-21,5,No
+REV0944,"It looks nice at first, although the size does not meet my expectations. Delivery was not the main problem.",Storage Organizer,Home & Kitchen,negative,Social Commerce,2025-12-17,2,No
+REV0817,"I expected a basic product, but the brightness turned out to be surprisingly good.",Desk Lamp,Home & Kitchen,positive,Online Store,2026-06-12,5,Yes
+REV0104,I expected better quality. The heat retention is the main problem. I contacted support and the issue remained.,Coffee Mug,Home & Kitchen,negative,Online Store,2025-10-13,2,Yes
+REV0320,Really happy with this purchase. The absorption works very well.,Moisturizer,Beauty,positive,Online Store,2026-04-20,5,Yes
+REV0302,Arrived on time and works as described. The fabric quality is great.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2026-08-23,4,Yes
+REV0241,The size and appearance are as expected. I have not tested the sound quality much yet.,Wireless Earbuds,Electronics,neutral,Online Store,2026-05-18,4,Yes
+REV1043,No major issue so far. The zipper quality is neither impressive nor disappointing.,Backpack,Fashion,neutral,Online Store,2025-12-10,4,Yes
+REV0659,I have used it for a while and the insulation has been reliable.,Water Bottle,Home & Kitchen,positive,Online Store,2025-04-06,4,No
+REV0954,Pleasantly surprised by the quality. The weight is excellent.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-02-01,4,Yes
+REV0738,Very satisfied overall. The cable fit is exactly what I needed.,USB-C Charger,Electronics,positive,Social Commerce,2025-09-23,5,Yes
+REV0230,Not worth the price. The packaging is much worse than expected. I contacted support and the issue remained.,Face Wash,Beauty,negative,Social Commerce,2026-07-20,1,Yes
+REV0399,This has made my daily routine easier. The typing response is very convenient.,Mechanical Keyboard,Electronics,positive,Online Store,2025-05-05,5,Yes
+REV0032,Not worth the price. The button access is much worse than expected. I noticed the problem within the first week.,Phone Case,Accessories,negative,Social Commerce,2025-01-07,2,Yes
+REV0664,Excellent value for the price. I especially like the key feel.,Mechanical Keyboard,Electronics,positive,Social Commerce,2026-03-16,5,Yes
+REV0221,"I expected a basic product, but the build quality turned out to be surprisingly good.",Power Bank,Electronics,positive,Online Store,2025-10-31,5,Yes
+REV0634,Really happy with this purchase. The portability works very well.,Laptop Stand,Electronics,positive,Online Store,2026-08-14,4,No
+REV0608,This has made my daily routine easier. The zipper quality is very convenient.,Backpack,Fashion,positive,Online Store,2025-12-24,4,Yes
+REV0927,Really happy with this purchase. The volume works very well. I have used it almost every day.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-04-22,5,Yes
+REV0121,"The moisturizer is not bad, but I would not call the absorption exceptional.",Moisturizer,Beauty,neutral,Online Store,2025-02-20,3,Yes
+REV1091,"I expected a basic product, but the capacity turned out to be surprisingly good.",Storage Organizer,Home & Kitchen,positive,Online Store,2025-06-08,5,Yes
+REV0050,The power bank looks good and the build quality is better than I expected.,Power Bank,Electronics,positive,Social Commerce,2025-09-06,4,Yes
+REV0999,The product does not perform as advertised. The cushioning is especially weak.,Running Shoes,Fashion,negative,Online Store,2025-05-04,1,Yes
+REV0951,The face wash looks good and the packaging is better than I expected. Delivery was quick.,Face Wash,Beauty,positive,Social Commerce,2025-12-27,5,Yes
+REV1139,Not worth the price. The battery life is much worse than expected.,Smart Watch,Electronics,negative,Online Store,2025-06-05,2,Yes
+REV1026,"The phone case is not bad, but I would not call the grip exceptional.",Phone Case,Accessories,neutral,Online Store,2026-04-13,3,Yes
+REV0786,Not worth the price. The fit is much worse than expected.,Bed Sheet Set,Home & Kitchen,negative,Online Store,2025-03-18,3,Yes
+REV0739,I have used it for a while and the storage space has been reliable. It feels solid in hand.,Backpack,Fashion,positive,Social Commerce,2025-08-16,4,No
+REV0099,Pleasantly surprised by the quality. The frame quality is excellent.,Sunglasses,Fashion,positive,Online Store,2025-09-29,4,No
+REV0098,"It does what it is supposed to do, although the non-stick coating is nothing special.",Non-Stick Frying Pan,Home & Kitchen,neutral,Social Commerce,2025-07-19,3,No
+REV1077,I would buy this again. The packaging is a nice touch.,Face Wash,Beauty,positive,Online Store,2025-06-08,4,Yes
+REV0147,Arrived on time and works as described. The fit is great.,Phone Case,Accessories,positive,Social Commerce,2025-12-17,4,Yes
+REV0599,Good quality product and the size feels well made.,Power Bank,Electronics,positive,Online Store,2025-09-05,5,Yes
+REV1178,I would buy this again. The fit is a nice touch.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-01-07,5,Yes
+REV1040,This has made my daily routine easier. The capacity is very convenient.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2026-05-25,5,No
+REV1189,The moisturizer arrived on time. I have only used it a few times so far.,Moisturizer,Beauty,neutral,Online Store,2026-07-28,4,Yes
+REV0114,The size and appearance are as expected. I have not tested the portability much yet.,Laptop Stand,Electronics,neutral,Social Commerce,2025-03-02,3,Yes
+REV0826,"It does what it is supposed to do, although the backlight is nothing special.",Mechanical Keyboard,Electronics,neutral,Online Store,2025-11-21,3,No
+REV0891,Really happy with this purchase. The comfort works very well.,Running Shoes,Fashion,positive,Social Commerce,2026-04-28,5,No
+REV0281,Very satisfied overall. The adjustability is exactly what I needed.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-10-06,4,Yes
+REV0631,I have used it for a while and the heat distribution has been reliable. Delivery was quick.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-03-22,5,Yes
+REV0193,Excellent value for the price. I especially like the cable fit. Delivery was quick.,USB-C Charger,Electronics,positive,Social Commerce,2025-11-02,5,Yes
+REV1160,Really happy with this purchase. The adjustability works very well.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-06-04,4,Yes
+REV0616,This has made my daily routine easier. The texture is very convenient. The packaging was also neat.,Face Wash,Beauty,positive,Social Commerce,2026-02-17,5,Yes
+REV0867,Pleasantly surprised by the quality. The battery capacity is excellent. It feels solid in hand.,Power Bank,Electronics,positive,Online Store,2026-04-18,4,Yes
+REV0495,The wireless earbuds is usable and matches the description. I am undecided about the fit.,Wireless Earbuds,Electronics,neutral,Online Store,2026-02-08,4,Yes
+REV1083,Really happy with this purchase. The skin feel works very well.,Face Wash,Beauty,positive,Social Commerce,2025-06-04,5,No
+REV0118,"The product looks as shown in the listing, and the height adjustment is fairly ordinary. The packaging was standard.",Laptop Stand,Electronics,neutral,Social Commerce,2026-08-19,4,Yes
+REV0799,I would buy this again. The absorption is a nice touch.,Moisturizer,Beauty,positive,Online Store,2025-06-29,4,Yes
+REV0673,"The smart watch is okay overall; the step tracking works, but there is nothing remarkable.",Smart Watch,Electronics,neutral,Social Commerce,2026-05-08,4,Yes
+REV0234,Not worth the price. The protection is much worse than expected.,Phone Case,Accessories,negative,Social Commerce,2025-06-27,3,No
+REV0876,Pleasantly surprised by the quality. The fit is excellent.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-04-02,5,No
+REV0831,I would not recommend it. The fit caused too many problems.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2026-07-14,1,Yes
+REV1096,I have used it for a while and the battery life has been reliable.,Wireless Earbuds,Electronics,positive,Social Commerce,2025-07-01,5,No
+REV0135,"It looks nice at first, although the Bluetooth connection does not meet my expectations. The packaging looked fine, but the product was not.",Wireless Earbuds,Electronics,negative,Online Store,2026-01-13,2,Yes
+REV0356,Good quality product and the charging speed feels well made.,USB-C Charger,Electronics,positive,Social Commerce,2025-09-19,5,No
+REV0528,"The smart watch is not perfect, but the step tracking is quite good and useful. The packaging was also neat.",Smart Watch,Electronics,positive,Online Store,2025-10-30,5,Yes
+REV0435,I had a bad experience because the portability is unreliable.,Laptop Stand,Electronics,negative,Online Store,2025-03-12,2,Yes
+REV0027,Packaging was fine and delivery was on schedule. I am still testing the fit.,Running Shoes,Fashion,neutral,Social Commerce,2025-02-17,3,No
+REV0253,I had a bad experience because the size is unreliable.,Power Bank,Electronics,negative,Social Commerce,2026-07-04,2,Yes
+REV0192,I would buy this again. The non-stick coating is a nice touch.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2026-01-07,4,Yes
+REV0537,Good quality product and the switch feels well made.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-01-06,4,No
+REV1163,"Delivery was normal. The product itself seems average, especially the finish.",Coffee Mug,Home & Kitchen,neutral,Social Commerce,2026-08-26,3,Yes
+REV0129,Arrived on time and works as described. The grip is great.,Phone Case,Accessories,positive,Online Store,2025-03-05,5,Yes
+REV1173,I have used it for a while and the notifications has been reliable. I have used it almost every day.,Smart Watch,Electronics,positive,Online Store,2025-05-22,4,No
+REV0394,The storage organizer arrived on time. I have only used it a few times so far. Delivery took a normal amount of time.,Storage Organizer,Home & Kitchen,neutral,Social Commerce,2026-03-03,4,Yes
+REV0265,Arrived on time and works as described. The height adjustment is great. It feels solid in hand.,Laptop Stand,Electronics,positive,Online Store,2026-01-27,4,Yes
+REV0989,Arrived on time and works as described. The stability is great.,Laptop Stand,Electronics,positive,Online Store,2025-08-27,5,No
+REV0905,Excellent value for the price. I especially like the lens quality.,Sunglasses,Fashion,positive,Online Store,2026-01-26,4,Yes
+REV1105,No major issue so far. The portability is neither impressive nor disappointing.,Laptop Stand,Electronics,neutral,Online Store,2025-01-10,4,Yes
+REV0539,"The product looks as shown in the listing, and the scent is fairly ordinary.",Moisturizer,Beauty,neutral,Social Commerce,2025-08-23,3,Yes
+REV0482,Very satisfied overall. The assembly is exactly what I needed.,Storage Organizer,Home & Kitchen,positive,Online Store,2025-07-19,4,No
+REV0474,"The face wash has a nice design, but the texture is too unreliable for me.",Face Wash,Beauty,negative,Social Commerce,2025-12-25,3,No
+REV0726,The bed sheet set arrived on time. I have only used it a few times so far.,Bed Sheet Set,Home & Kitchen,neutral,Online Store,2025-07-31,4,Yes
+REV0326,Pleasantly surprised by the quality. The fit is excellent.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2025-11-14,4,Yes
+REV0789,Good quality product and the sound quality feels well made.,Bluetooth Speaker,Electronics,positive,Online Store,2026-03-18,4,No
+REV0640,The product does not perform as advertised. The height adjustment is especially weak.,Laptop Stand,Electronics,negative,Online Store,2026-05-30,2,Yes
+REV0752,"The desk lamp looks fine, but the adjustability stopped working quickly.",Desk Lamp,Home & Kitchen,negative,Online Store,2025-01-12,2,No
+REV0022,"I expected a basic product, but the absorption turned out to be surprisingly good.",Moisturizer,Beauty,positive,Social Commerce,2025-03-02,4,Yes
+REV0077,Arrived on time and works as described. The insulation is great.,Water Bottle,Home & Kitchen,positive,Social Commerce,2025-05-24,4,No
+REV0070,Packaging was fine and delivery was on schedule. I am still testing the fabric quality.,Bed Sheet Set,Home & Kitchen,neutral,Online Store,2026-08-24,3,Yes
+REV0838,"It arrived, but the softness was already damaged.",Bed Sheet Set,Home & Kitchen,negative,Online Store,2025-10-02,1,Yes
+REV1072,Pleasantly surprised by the quality. The lens quality is excellent.,Sunglasses,Fashion,positive,Online Store,2026-05-13,4,No
+REV0677,Good quality product and the non-stick coating feels well made.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2026-06-07,4,Yes
+REV1118,"Delivery was normal. The product itself seems average, especially the notifications.",Smart Watch,Electronics,neutral,Social Commerce,2026-01-26,3,Yes
+REV0090,The size and appearance are as expected. I have not tested the adjustability much yet. The packaging was standard.,Desk Lamp,Home & Kitchen,neutral,Online Store,2026-05-21,3,Yes
+REV1033,No major issue so far. The lid design is neither impressive nor disappointing.,Water Bottle,Home & Kitchen,neutral,Online Store,2026-02-16,3,Yes
+REV0787,I had a bad experience because the typing response is unreliable.,Mechanical Keyboard,Electronics,negative,Social Commerce,2025-01-12,3,No
+REV0325,"Delivery was normal. The product itself seems average, especially the volume.",Bluetooth Speaker,Electronics,neutral,Online Store,2026-04-17,3,No
+REV0974,"Disappointed with this purchase. The battery life is poor. The packaging looked fine, but the product was not.",Smart Watch,Electronics,negative,Social Commerce,2025-03-09,2,No
+REV0558,I had a bad experience because the texture is unreliable.,Moisturizer,Beauty,negative,Social Commerce,2025-10-30,2,No
+REV0526,Really happy with this purchase. The skin feel works very well.,Moisturizer,Beauty,positive,Online Store,2025-10-14,5,Yes
+REV0048,No major issue so far. The heat retention is neither impressive nor disappointing. The packaging was standard.,Coffee Mug,Home & Kitchen,neutral,Social Commerce,2026-02-21,4,Yes
+REV1052,Really happy with this purchase. The heat distribution works very well.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-05-28,4,Yes
+REV0563,Pleasantly surprised by the quality. The lid design is excellent.,Water Bottle,Home & Kitchen,positive,Online Store,2025-06-17,5,Yes
+REV0313,Very satisfied overall. The non-stick coating is exactly what I needed.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2026-01-25,5,Yes
+REV0292,"The cotton t-shirt looks fine, but the fabric quality stopped working quickly.",Cotton T-Shirt,Fashion,negative,Social Commerce,2025-11-14,2,No
+REV0365,Pleasantly surprised by the quality. The heat retention is excellent.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-07-10,4,No
+REV1047,Disappointed with this purchase. The skin feel is poor.,Moisturizer,Beauty,negative,Online Store,2025-02-15,1,No
+REV0697,The non-stick frying pan arrived on time. I have only used it a few times so far.,Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-12-19,3,Yes
+REV0211,Very satisfied overall. The packaging is exactly what I needed.,Face Wash,Beauty,positive,Online Store,2025-06-14,5,Yes
+REV0980,Very frustrating to use because the color keeps causing issues.,Cotton T-Shirt,Fashion,negative,Social Commerce,2026-08-24,3,Yes
+REV1144,Very satisfied overall. The skin feel is exactly what I needed.,Face Wash,Beauty,positive,Online Store,2025-01-22,5,Yes
+REV0718,"It does what it is supposed to do, although the leak protection is nothing special.",Water Bottle,Home & Kitchen,neutral,Social Commerce,2025-09-12,4,No
+REV0044,"The sunglasses has a nice design, but the fit is too unreliable for me.",Sunglasses,Fashion,negative,Online Store,2025-03-10,1,Yes
+REV0861,The laptop stand arrived on time. I have only used it a few times so far.,Laptop Stand,Electronics,neutral,Social Commerce,2026-06-10,4,No
+REV0593,The mechanical keyboard arrived on time. I have only used it a few times so far.,Mechanical Keyboard,Electronics,neutral,Social Commerce,2025-05-19,3,Yes
+REV0594,I would not recommend it. The color caused too many problems.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-03-19,1,Yes
+REV0995,Arrived on time and works as described. The color is great.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-03-12,4,No
+REV0110,Very satisfied overall. The size is exactly what I needed.,Power Bank,Electronics,positive,Social Commerce,2026-07-08,5,Yes
+REV0206,Not worth the price. The non-stick coating is much worse than expected.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2026-07-31,3,Yes
+REV0069,The desk lamp looks good and the design is better than I expected. Delivery was quick.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-08-30,4,Yes
+REV0007,I would buy this again. The build quality is a nice touch.,Power Bank,Electronics,positive,Social Commerce,2026-07-11,5,Yes
+REV1108,"It does what it is supposed to do, although the fit is nothing special.",Sunglasses,Fashion,neutral,Social Commerce,2026-07-11,3,Yes
+REV1123,Arrived on time and works as described. The heat retention is great.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2026-06-08,5,Yes
+REV0768,Pleasantly surprised by the quality. The grip is excellent.,Phone Case,Accessories,positive,Online Store,2026-01-14,5,Yes
+REV0810,The backpack is usable and matches the description. I am undecided about the zipper quality.,Backpack,Fashion,neutral,Social Commerce,2025-07-10,4,Yes
+REV1060,"The phone case has a nice design, but the button access is too unreliable for me.",Phone Case,Accessories,negative,Online Store,2026-05-08,1,Yes
+REV0224,Arrived on time and works as described. The scent is great.,Face Wash,Beauty,positive,Online Store,2026-02-18,4,No
+REV0952,This has made my daily routine easier. The height adjustment is very convenient.,Laptop Stand,Electronics,positive,Online Store,2025-03-03,5,Yes
+REV0942,"It does what it is supposed to do, although the sound quality is nothing special.",Wireless Earbuds,Electronics,neutral,Social Commerce,2025-10-02,3,Yes
+REV0675,"The smart watch is not perfect, but the screen is quite good and useful.",Smart Watch,Electronics,positive,Social Commerce,2025-05-05,5,Yes
+REV0587,"The product looks as shown in the listing, and the screen is fairly ordinary.",Smart Watch,Electronics,neutral,Social Commerce,2025-10-11,3,Yes
+REV0760,"It looks nice at first, although the zipper quality does not meet my expectations. Delivery was not the main problem.",Backpack,Fashion,negative,Social Commerce,2025-12-10,1,Yes
+REV0805,Very satisfied overall. The skin feel is exactly what I needed. The packaging was also neat.,Moisturizer,Beauty,positive,Online Store,2025-12-27,5,Yes
+REV1145,"I received the correct item and have used it once. So far, the comfort seems acceptable. I will update my opinion after more use.",Sunglasses,Fashion,neutral,Social Commerce,2025-03-21,3,Yes
+REV0544,Really happy with this purchase. The charging speed works very well.,USB-C Charger,Electronics,positive,Social Commerce,2025-11-21,4,Yes
+REV0477,The product does not perform as advertised. The packaging is especially weak. I contacted support and the issue remained.,Face Wash,Beauty,negative,Online Store,2026-03-22,2,Yes
+REV1055,Pleasantly surprised by the quality. The lid design is excellent.,Water Bottle,Home & Kitchen,positive,Online Store,2025-09-19,4,Yes
+REV0372,"It does what it is supposed to do, although the fit is nothing special.",Wireless Earbuds,Electronics,neutral,Online Store,2025-09-21,3,Yes
+REV0324,The quality is disappointing and the skin feel feels cheap.,Moisturizer,Beauty,negative,Social Commerce,2025-01-09,2,Yes
+REV1021,Good quality product and the non-stick coating feels well made.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-01-20,5,Yes
+REV0014,Very satisfied overall. The grip is exactly what I needed. Delivery was quick.,Running Shoes,Fashion,positive,Online Store,2026-07-29,4,Yes
+REV1032,"I expected a basic product, but the build quality turned out to be surprisingly good.",Laptop Stand,Electronics,positive,Online Store,2025-06-28,5,Yes
+REV0158,"I received the correct item and have used it once. So far, the material seems acceptable.",Storage Organizer,Home & Kitchen,neutral,Online Store,2026-08-18,3,Yes
+REV0978,The water bottle is usable and matches the description. I am undecided about the insulation.,Water Bottle,Home & Kitchen,neutral,Online Store,2026-05-30,4,Yes
+REV0902,"I expected a basic product, but the capacity turned out to be surprisingly good.",Storage Organizer,Home & Kitchen,positive,Online Store,2025-01-16,4,Yes
+REV0548,Very satisfied overall. The handle is exactly what I needed.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-03-03,5,Yes
+REV0355,Really happy with this purchase. The assembly works very well.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-11-15,5,Yes
+REV1065,The storage organizer is okay for now. I need more time to judge the size.,Storage Organizer,Home & Kitchen,neutral,Online Store,2025-08-03,3,No
+REV0425,"The sunglasses has a nice design, but the lens quality is too unreliable for me.",Sunglasses,Fashion,negative,Social Commerce,2026-04-09,2,No
+REV0583,"The wireless earbuds has a nice design, but the sound quality is too unreliable for me.",Wireless Earbuds,Electronics,negative,Online Store,2025-04-06,3,Yes
+REV0237,"I expected a basic product, but the size turned out to be surprisingly good.",Power Bank,Electronics,positive,Social Commerce,2025-11-08,5,No
+REV1114,Really happy with this purchase. The finish works very well.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2026-07-18,4,Yes
+REV0666,Really happy with this purchase. The lens quality works very well.,Sunglasses,Fashion,positive,Social Commerce,2026-06-12,5,Yes
+REV1115,The face wash is okay for now. I need more time to judge the scent.,Face Wash,Beauty,neutral,Online Store,2026-05-18,3,Yes
+REV0991,No major issue so far. The design is neither impressive nor disappointing. I will update my opinion after more use.,Desk Lamp,Home & Kitchen,neutral,Online Store,2025-05-19,3,Yes
+REV1109,I have used it for a while and the heat control has been reliable.,USB-C Charger,Electronics,positive,Social Commerce,2025-12-14,4,Yes
+REV0309,I would not recommend it. The brightness caused too many problems.,Desk Lamp,Home & Kitchen,negative,Social Commerce,2025-11-06,2,No
+REV0758,Really happy with this purchase. The lid design works very well.,Water Bottle,Home & Kitchen,positive,Online Store,2026-08-22,5,No
+REV0852,Very frustrating to use because the straps keeps causing issues.,Backpack,Fashion,negative,Online Store,2026-01-11,2,Yes
+REV0183,Not worth the price. The skin feel is much worse than expected.,Moisturizer,Beauty,negative,Online Store,2026-02-24,3,Yes
+REV0060,"The bed sheet set looks fine, but the fabric quality stopped working quickly.",Bed Sheet Set,Home & Kitchen,negative,Online Store,2026-05-04,3,Yes
+REV0985,The quality is disappointing and the skin feel feels cheap.,Moisturizer,Beauty,negative,Social Commerce,2026-07-23,1,Yes
+REV0131,"The product looks as shown in the listing, and the typing response is fairly ordinary.",Mechanical Keyboard,Electronics,neutral,Online Store,2026-05-15,3,Yes
+REV0030,"It arrived, but the size was already damaged. The packaging looked fine, but the product was not.",Water Bottle,Home & Kitchen,negative,Social Commerce,2026-07-15,1,Yes
+REV0283,Arrived on time and works as described. The scent is great.,Moisturizer,Beauty,positive,Online Store,2025-12-19,5,Yes
+REV0452,I had a bad experience because the lens quality is unreliable.,Sunglasses,Fashion,negative,Online Store,2026-06-06,2,No
+REV1107,Arrived on time and works as described. The size is great.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-11-11,4,No
+REV1066,"It arrived, but the fabric quality was already damaged.",Bed Sheet Set,Home & Kitchen,negative,Online Store,2025-03-26,2,Yes
+REV0465,"The mechanical keyboard is not perfect, but the key feel is quite good and useful.",Mechanical Keyboard,Electronics,positive,Social Commerce,2025-12-12,4,Yes
+REV1034,I would not recommend it. The grip caused too many problems.,Running Shoes,Fashion,negative,Online Store,2025-08-20,2,Yes
+REV1008,Really happy with this purchase. The lens quality works very well. Delivery was quick.,Sunglasses,Fashion,positive,Social Commerce,2025-03-08,5,Yes
+REV0818,Excellent value for the price. I especially like the charging speed.,USB-C Charger,Electronics,positive,Online Store,2026-05-16,4,Yes
+REV0061,No major issue so far. The stability is neither impressive nor disappointing.,Laptop Stand,Electronics,neutral,Online Store,2025-04-26,3,No
+REV0316,Very satisfied overall. The size is exactly what I needed.,Power Bank,Electronics,positive,Social Commerce,2026-03-14,4,Yes
+REV0112,Good quality product and the texture feels well made. The packaging was also neat.,Face Wash,Beauty,positive,Social Commerce,2025-08-15,5,Yes
+REV0029,Not worth the price. The notifications is much worse than expected.,Smart Watch,Electronics,negative,Online Store,2026-06-14,2,Yes
+REV1191,Very frustrating to use because the cushioning keeps causing issues.,Running Shoes,Fashion,negative,Social Commerce,2025-04-21,3,Yes
+REV0187,I would not recommend it. The heat retention caused too many problems.,Coffee Mug,Home & Kitchen,negative,Online Store,2025-07-14,2,Yes
+REV0378,Good quality product and the skin feel feels well made.,Face Wash,Beauty,positive,Online Store,2025-03-29,5,Yes
+REV0903,I would not recommend it. The fit caused too many problems.,Cotton T-Shirt,Fashion,negative,Online Store,2026-05-22,1,Yes
+REV0422,"I expected a basic product, but the portability turned out to be surprisingly good.",Laptop Stand,Electronics,positive,Online Store,2026-08-19,5,Yes
+REV0512,"The face wash looks fine, but the packaging stopped working quickly.",Face Wash,Beauty,negative,Social Commerce,2025-05-16,2,Yes
+REV0057,I would buy this again. The frame quality is a nice touch.,Sunglasses,Fashion,positive,Online Store,2025-05-11,4,Yes
+REV0438,I have used it for a while and the comfort has been reliable.,Running Shoes,Fashion,positive,Social Commerce,2026-02-24,4,Yes
+REV1079,Pleasantly surprised by the quality. The fit is excellent.,Cotton T-Shirt,Fashion,positive,Social Commerce,2025-08-21,4,No
+REV0042,I have used it for a while and the screen has been reliable.,Smart Watch,Electronics,positive,Online Store,2025-12-13,5,Yes
+REV0249,"The usb-c charger looks fine, but the build quality stopped working quickly.",USB-C Charger,Electronics,negative,Social Commerce,2025-11-16,3,Yes
+REV0681,The storage organizer is okay for now. I need more time to judge the material.,Storage Organizer,Home & Kitchen,neutral,Social Commerce,2025-11-22,3,No
+REV0755,Really happy with this purchase. The fit works very well.,Phone Case,Accessories,positive,Social Commerce,2026-05-24,5,Yes
+REV0386,No major issue so far. The Bluetooth connection is neither impressive nor disappointing.,Wireless Earbuds,Electronics,neutral,Social Commerce,2025-04-18,3,No
+REV0402,"Delivery was normal. The product itself seems average, especially the frame quality.",Sunglasses,Fashion,neutral,Social Commerce,2025-12-19,4,Yes
+REV0352,I would buy this again. The battery capacity is a nice touch.,Power Bank,Electronics,positive,Social Commerce,2025-02-01,5,No
+REV0762,"The laptop stand is okay overall; the build quality works, but there is nothing remarkable.",Laptop Stand,Electronics,neutral,Online Store,2026-08-03,3,No
+REV0259,"Delivery was normal. The product itself seems average, especially the fit.",Running Shoes,Fashion,neutral,Social Commerce,2026-08-28,3,No
+REV0204,Pleasantly surprised by the quality. The battery life is excellent. I have used it almost every day.,Wireless Earbuds,Electronics,positive,Social Commerce,2026-05-25,5,Yes
+REV0220,Very satisfied overall. The fit is exactly what I needed.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-03-04,4,No
+REV0481,Packaging was fine and delivery was on schedule. I am still testing the color.,Cotton T-Shirt,Fashion,neutral,Social Commerce,2026-06-28,3,Yes
+REV0909,Very satisfied overall. The capacity is exactly what I needed.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-03-27,5,Yes
+REV0045,I expected better quality. The handle is the main problem.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2025-01-29,2,Yes
+REV0148,Excellent value for the price. I especially like the switch.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-08-03,4,Yes
+REV0382,I have used it for a while and the build quality has been reliable.,USB-C Charger,Electronics,positive,Online Store,2026-01-29,5,Yes
+REV0766,The usb-c charger looks good and the heat control is better than I expected.,USB-C Charger,Electronics,positive,Online Store,2026-02-22,4,Yes
+REV0990,I had a bad experience because the notifications is unreliable.,Smart Watch,Electronics,negative,Online Store,2026-07-25,1,Yes
+REV0715,Disappointed with this purchase. The absorption is poor.,Moisturizer,Beauty,negative,Social Commerce,2026-01-03,2,Yes
+REV1103,I have used it for a while and the brightness has been reliable.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-12-09,5,Yes
+REV0896,Very frustrating to use because the finish keeps causing issues.,Coffee Mug,Home & Kitchen,negative,Online Store,2026-05-23,2,Yes
+REV0625,Really happy with this purchase. The size works very well.,Coffee Mug,Home & Kitchen,positive,Online Store,2025-03-10,5,Yes
+REV0804,The size and appearance are as expected. I have not tested the heat distribution much yet.,Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2026-07-17,3,Yes
+REV0133,Very satisfied overall. The heat control is exactly what I needed.,USB-C Charger,Electronics,positive,Online Store,2025-08-20,5,Yes
+REV1090,"I expected a basic product, but the sound quality turned out to be surprisingly good.",Wireless Earbuds,Electronics,positive,Social Commerce,2025-04-24,4,Yes
+REV0455,The bed sheet set arrived on time. I have only used it a few times so far.,Bed Sheet Set,Home & Kitchen,neutral,Social Commerce,2025-12-10,3,Yes
+REV0480,Arrived on time and works as described. The cushioning is great.,Running Shoes,Fashion,positive,Online Store,2025-11-17,5,Yes
+REV0188,The quality is disappointing and the fabric quality feels cheap.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-04-04,2,Yes
+REV0777,Excellent value for the price. I especially like the step tracking.,Smart Watch,Electronics,positive,Online Store,2026-06-30,4,No
+REV0947,No major issue so far. The comfort is neither impressive nor disappointing.,Backpack,Fashion,neutral,Social Commerce,2026-03-09,3,Yes
+REV0015,"It arrived, but the scent was already damaged.",Moisturizer,Beauty,negative,Online Store,2025-01-23,3,Yes
+REV0017,Excellent value for the price. I especially like the lens quality.,Sunglasses,Fashion,positive,Online Store,2025-01-01,4,Yes
+REV0072,The size and appearance are as expected. I have not tested the backlight much yet.,Mechanical Keyboard,Electronics,neutral,Online Store,2025-06-11,3,Yes
+REV0525,The storage organizer is usable and matches the description. I am undecided about the size.,Storage Organizer,Home & Kitchen,neutral,Social Commerce,2025-12-09,3,Yes
+REV0117,Good quality product and the volume feels well made.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-08-19,5,Yes
+REV0291,"I received the correct item and have used it once. So far, the heat distribution seems acceptable. I will update my opinion after more use.",Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-03-11,3,Yes
+REV1179,Really happy with this purchase. The cushioning works very well. I have used it almost every day.,Running Shoes,Fashion,positive,Online Store,2025-02-10,5,Yes
+REV0911,Really happy with this purchase. The color works very well. The packaging was also neat.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2026-05-03,4,Yes
+REV0743,Really happy with this purchase. The notifications works very well. Delivery was quick.,Smart Watch,Electronics,positive,Online Store,2026-02-04,5,Yes
+REV0447,"Delivery was normal. The product itself seems average, especially the handle.",Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2026-02-21,3,No
+REV1143,"The water bottle is not perfect, but the leak protection is quite good and useful.",Water Bottle,Home & Kitchen,positive,Online Store,2025-12-18,5,No
+REV0144,Packaging was fine and delivery was on schedule. I am still testing the lens quality.,Sunglasses,Fashion,neutral,Online Store,2025-01-10,3,Yes
+REV1050,The backpack is usable and matches the description. I am undecided about the zipper quality.,Backpack,Fashion,neutral,Online Store,2026-06-08,3,Yes
+REV0795,"The laptop stand is not bad, but I would not call the portability exceptional.",Laptop Stand,Electronics,neutral,Social Commerce,2025-12-08,3,Yes
+REV0897,Arrived on time and works as described. The comfort is great. I have used it almost every day.,Sunglasses,Fashion,positive,Online Store,2026-03-02,4,No
+REV0793,The laptop stand arrived on time. I have only used it a few times so far.,Laptop Stand,Electronics,neutral,Online Store,2025-06-05,3,Yes
+REV1025,Pleasantly surprised by the quality. The leak protection is excellent.,Water Bottle,Home & Kitchen,positive,Social Commerce,2025-03-10,4,Yes
+REV0573,I would buy this again. The button access is a nice touch.,Phone Case,Accessories,positive,Online Store,2025-04-22,4,Yes
+REV0019,I expected better quality. The stability is the main problem.,Laptop Stand,Electronics,negative,Social Commerce,2026-02-12,2,Yes
+REV0216,This has made my daily routine easier. The adjustability is very convenient.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-03-26,5,Yes
+REV1132,The wireless earbuds is okay for now. I need more time to judge the sound quality.,Wireless Earbuds,Electronics,neutral,Online Store,2025-02-06,4,Yes
+REV0961,The wireless earbuds looks good and the battery life is better than I expected.,Wireless Earbuds,Electronics,positive,Online Store,2025-05-08,4,Yes
+REV0056,Disappointed with this purchase. The packaging is poor.,Face Wash,Beauty,negative,Online Store,2026-08-25,1,Yes
+REV1073,"The usb-c charger has a nice design, but the charging speed is too unreliable for me.",USB-C Charger,Electronics,negative,Online Store,2026-06-02,3,Yes
+REV0270,I expected better quality. The build quality is the main problem.,USB-C Charger,Electronics,negative,Social Commerce,2026-06-05,1,Yes
+REV0105,I would buy this again. The assembly is a nice touch.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-01-11,4,No
+REV0036,"It arrived, but the height adjustment was already damaged.",Laptop Stand,Electronics,negative,Social Commerce,2026-07-02,1,Yes
+REV0171,The product does not perform as advertised. The fit is especially weak.,Wireless Earbuds,Electronics,negative,Social Commerce,2026-01-07,2,Yes
+REV1112,Packaging was fine and delivery was on schedule. I am still testing the size.,Storage Organizer,Home & Kitchen,neutral,Social Commerce,2025-12-01,4,Yes
+REV0338,The product does not perform as advertised. The notifications is especially weak.,Smart Watch,Electronics,negative,Online Store,2025-06-25,2,Yes
+REV1053,"The smart watch is not perfect, but the battery life is quite good and useful.",Smart Watch,Electronics,positive,Social Commerce,2026-08-09,5,No
+REV0803,I expected better quality. The non-stick coating is the main problem.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2025-08-07,1,No
+REV0176,I have used it for a while and the lid design has been reliable. Delivery was quick.,Water Bottle,Home & Kitchen,positive,Social Commerce,2026-02-12,5,Yes
+REV0716,Arrived on time and works as described. The color is great.,Cotton T-Shirt,Fashion,positive,Online Store,2025-03-29,4,No
+REV0010,Disappointed with this purchase. The portability is poor.,Laptop Stand,Electronics,negative,Social Commerce,2026-07-26,2,Yes
+REV0584,Really happy with this purchase. The fabric quality works very well.,Cotton T-Shirt,Fashion,positive,Online Store,2025-06-08,5,Yes
+REV0506,"The usb-c charger is not perfect, but the heat control is quite good and useful.",USB-C Charger,Electronics,positive,Social Commerce,2025-01-19,5,Yes
+REV0856,The face wash looks good and the skin feel is better than I expected.,Face Wash,Beauty,positive,Social Commerce,2025-05-11,5,Yes
+REV1177,"The product looks as shown in the listing, and the heat distribution is fairly ordinary. Nothing unusual was noticed during delivery.",Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-03-27,3,Yes
+REV0907,Pleasantly surprised by the quality. The scent is excellent.,Moisturizer,Beauty,positive,Online Store,2025-11-23,4,Yes
+REV0463,I have used it for a while and the capacity has been reliable.,Storage Organizer,Home & Kitchen,positive,Online Store,2025-08-17,5,No
+REV0969,I have used it for a while and the softness has been reliable.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-06-11,4,Yes
+REV0013,"It does what it is supposed to do, although the comfort is nothing special.",Backpack,Fashion,neutral,Online Store,2025-02-09,3,No
+REV0733,Excellent value for the price. I especially like the packaging. It feels solid in hand.,Face Wash,Beauty,positive,Social Commerce,2025-07-03,4,Yes
+REV1141,I have used it for a while and the frame quality has been reliable. I have used it almost every day.,Sunglasses,Fashion,positive,Online Store,2026-01-23,5,Yes
+REV0781,"The running shoes has a nice design, but the grip is too unreliable for me.",Running Shoes,Fashion,negative,Social Commerce,2025-12-30,1,Yes
+REV0021,Not worth the price. The screen is much worse than expected.,Smart Watch,Electronics,negative,Online Store,2025-03-26,1,Yes
+REV0993,I had a bad experience because the softness is unreliable.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2026-04-27,1,Yes
+REV0285,"The storage organizer looks fine, but the assembly stopped working quickly.",Storage Organizer,Home & Kitchen,negative,Social Commerce,2025-03-20,1,Yes
+REV0490,"I expected a basic product, but the build quality turned out to be surprisingly good.",Laptop Stand,Electronics,positive,Online Store,2025-10-31,4,Yes
+REV0521,Arrived on time and works as described. The comfort is great.,Sunglasses,Fashion,positive,Online Store,2025-10-29,5,Yes
+REV0153,"The phone case looks fine, but the grip stopped working quickly. The packaging looked fine, but the product was not.",Phone Case,Accessories,negative,Social Commerce,2025-01-26,2,Yes
+REV0262,I had a bad experience because the texture is unreliable.,Face Wash,Beauty,negative,Social Commerce,2025-05-01,1,Yes
+REV0706,"It looks nice at first, although the frame quality does not meet my expectations.",Sunglasses,Fashion,negative,Online Store,2026-04-13,3,Yes
+REV0255,Arrived on time and works as described. The protection is great.,Phone Case,Accessories,positive,Online Store,2026-05-23,4,Yes
+REV0075,"The product looks as shown in the listing, and the key feel is fairly ordinary.",Mechanical Keyboard,Electronics,neutral,Online Store,2026-02-17,3,No
+REV0331,Disappointed with this purchase. The volume is poor.,Bluetooth Speaker,Electronics,negative,Social Commerce,2026-03-18,2,Yes
+REV0551,This has made my daily routine easier. The portability is very convenient.,Laptop Stand,Electronics,positive,Online Store,2026-03-30,5,Yes
+REV1130,Good quality product and the adjustability feels well made.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-10-06,5,Yes
+REV0418,This has made my daily routine easier. The zipper quality is very convenient. I have used it almost every day.,Backpack,Fashion,positive,Online Store,2026-05-05,5,Yes
+REV0101,Very frustrating to use because the switch keeps causing issues.,Desk Lamp,Home & Kitchen,negative,Online Store,2026-05-14,3,Yes
+REV0855,"It does what it is supposed to do, although the switch is nothing special.",Desk Lamp,Home & Kitchen,neutral,Social Commerce,2026-04-12,4,Yes
+REV0142,Very satisfied overall. The height adjustment is exactly what I needed.,Laptop Stand,Electronics,positive,Online Store,2025-07-26,5,Yes
+REV0567,The quality is disappointing and the insulation feels cheap.,Water Bottle,Home & Kitchen,negative,Online Store,2025-01-08,1,No
+REV0248,"The product looks as shown in the listing, and the build quality is fairly ordinary.",USB-C Charger,Electronics,neutral,Online Store,2026-03-02,3,Yes
+REV0658,Really happy with this purchase. The Bluetooth connection works very well.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-05-30,4,Yes
+REV0195,I expected better quality. The comfort is the main problem.,Sunglasses,Fashion,negative,Online Store,2025-03-22,3,Yes
+REV0254,"The smart watch has a nice design, but the screen is too unreliable for me.",Smart Watch,Electronics,negative,Social Commerce,2026-03-30,1,Yes
+REV0504,The laptop stand is usable and matches the description. I am undecided about the height adjustment. Nothing unusual was noticed during delivery.,Laptop Stand,Electronics,neutral,Social Commerce,2025-04-26,3,No
+REV0250,The product does not perform as advertised. The comfort is especially weak.,Cotton T-Shirt,Fashion,negative,Social Commerce,2026-03-30,2,Yes
+REV1082,Very satisfied overall. The weight is exactly what I needed. Delivery was quick.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-04-03,5,Yes
+REV1099,The quality is disappointing and the texture feels cheap.,Face Wash,Beauty,negative,Social Commerce,2025-02-11,1,No
+REV1147,Pleasantly surprised by the quality. The fit is excellent.,Phone Case,Accessories,positive,Social Commerce,2026-05-30,4,No
+REV0643,I expected better quality. The handle is the main problem.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2025-12-27,2,Yes
+REV0582,I would buy this again. The skin feel is a nice touch.,Face Wash,Beauty,positive,Social Commerce,2026-05-02,4,Yes
+REV0965,The non-stick frying pan arrived on time. I have only used it a few times so far.,Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2025-11-19,4,Yes
+REV0235,"The product looks as shown in the listing, and the material is fairly ordinary.",Storage Organizer,Home & Kitchen,neutral,Social Commerce,2025-12-08,3,Yes
+REV0278,The product does not perform as advertised. The fit is especially weak.,Cotton T-Shirt,Fashion,negative,Online Store,2025-09-12,1,Yes
+REV0939,Really happy with this purchase. The cushioning works very well.,Running Shoes,Fashion,positive,Social Commerce,2026-03-15,5,Yes
+REV0520,I would not recommend it. The heat distribution caused too many problems.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2025-06-30,2,No
+REV1028,The storage organizer arrived on time. I have only used it a few times so far.,Storage Organizer,Home & Kitchen,neutral,Social Commerce,2026-08-27,4,Yes
+REV0407,No major issue so far. The battery capacity is neither impressive nor disappointing.,Power Bank,Electronics,neutral,Social Commerce,2026-08-02,3,Yes
+REV0647,I would not recommend it. The sound quality caused too many problems.,Wireless Earbuds,Electronics,negative,Online Store,2026-02-05,2,No
+REV0622,"The bluetooth speaker is not perfect, but the battery life is quite good and useful. The packaging was also neat.",Bluetooth Speaker,Electronics,positive,Online Store,2025-06-22,4,No
+REV0728,I would buy this again. The adjustability is a nice touch.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-08-10,4,Yes
+REV0782,Very frustrating to use because the charging speed keeps causing issues.,Power Bank,Electronics,negative,Social Commerce,2025-10-18,1,Yes
+REV0359,Disappointed with this purchase. The lid design is poor.,Water Bottle,Home & Kitchen,negative,Online Store,2025-09-14,3,Yes
+REV0527,Arrived on time and works as described. The grip is great.,Phone Case,Accessories,positive,Social Commerce,2026-05-18,5,Yes
+REV0460,"The power bank looks fine, but the build quality stopped working quickly.",Power Bank,Electronics,negative,Online Store,2025-03-02,1,Yes
+REV0174,"It arrived, but the stability was already damaged.",Laptop Stand,Electronics,negative,Social Commerce,2026-03-12,1,Yes
+REV0702,This has made my daily routine easier. The color is very convenient.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-02-17,5,Yes
+REV0271,Packaging was fine and delivery was on schedule. I am still testing the fit. I will update my opinion after more use.,Running Shoes,Fashion,neutral,Social Commerce,2025-04-06,4,Yes
+REV0857,Really happy with this purchase. The skin feel works very well.,Moisturizer,Beauty,positive,Online Store,2025-03-15,5,Yes
+REV0885,"The product looks as shown in the listing, and the fit is fairly ordinary.",Bed Sheet Set,Home & Kitchen,neutral,Online Store,2025-07-07,3,No
+REV0330,The face wash looks good and the packaging is better than I expected.,Face Wash,Beauty,positive,Social Commerce,2026-06-01,4,Yes
+REV0186,"The product looks as shown in the listing, and the assembly is fairly ordinary.",Storage Organizer,Home & Kitchen,neutral,Social Commerce,2026-01-10,4,Yes
+REV0809,This has made my daily routine easier. The texture is very convenient.,Moisturizer,Beauty,positive,Social Commerce,2026-06-20,4,Yes
+REV0624,The product does not perform as advertised. The fabric quality is especially weak. I contacted support and the issue remained.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-08-02,3,Yes
+REV0501,Very satisfied overall. The step tracking is exactly what I needed. I have used it almost every day.,Smart Watch,Electronics,positive,Social Commerce,2026-05-22,5,No
+REV0591,Good quality product and the heat retention feels well made. Delivery was quick.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2026-03-13,5,Yes
+REV0478,"Delivery was normal. The product itself seems average, especially the assembly.",Storage Organizer,Home & Kitchen,neutral,Online Store,2025-12-25,3,Yes
+REV0676,This has made my daily routine easier. The step tracking is very convenient.,Smart Watch,Electronics,positive,Online Store,2025-10-16,5,Yes
+REV1140,I expected better quality. The fabric quality is the main problem.,Bed Sheet Set,Home & Kitchen,negative,Online Store,2025-07-16,2,Yes
+REV0047,Excellent value for the price. I especially like the key feel.,Mechanical Keyboard,Electronics,positive,Social Commerce,2025-01-13,4,No
+REV0959,"The running shoes is not bad, but I would not call the fit exceptional.",Running Shoes,Fashion,neutral,Social Commerce,2025-11-18,3,Yes
+REV0945,The mechanical keyboard arrived on time. I have only used it a few times so far.,Mechanical Keyboard,Electronics,neutral,Social Commerce,2025-06-18,3,Yes
+REV1018,"I expected a basic product, but the non-stick coating turned out to be surprisingly good. The packaging was also neat.",Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-05-16,4,No
+REV0419,"I received the correct item and have used it once. So far, the scent seems acceptable.",Face Wash,Beauty,neutral,Social Commerce,2025-09-23,3,Yes
+REV1002,I have used it for a while and the backlight has been reliable.,Mechanical Keyboard,Electronics,positive,Online Store,2025-08-14,5,Yes
+REV0966,I expected better quality. The build quality is the main problem.,USB-C Charger,Electronics,negative,Online Store,2026-07-01,2,Yes
+REV0652,I would buy this again. The build quality is a nice touch. The packaging was also neat.,Mechanical Keyboard,Electronics,positive,Social Commerce,2026-03-02,5,Yes
+REV0590,Really happy with this purchase. The screen works very well.,Smart Watch,Electronics,positive,Online Store,2025-01-19,4,No
+REV0088,"It arrived, but the cable fit was already damaged. I contacted support and the issue remained.",USB-C Charger,Electronics,negative,Social Commerce,2025-11-09,2,Yes
+REV0067,This has made my daily routine easier. The color is very convenient.,Cotton T-Shirt,Fashion,positive,Social Commerce,2025-01-12,4,No
+REV0218,I have used it for a while and the grip has been reliable. The packaging was also neat.,Phone Case,Accessories,positive,Online Store,2025-04-14,5,Yes
+REV0310,"The laptop stand is okay overall; the stability works, but there is nothing remarkable.",Laptop Stand,Electronics,neutral,Online Store,2026-07-24,3,Yes
+REV0613,This has made my daily routine easier. The sound quality is very convenient. Delivery was quick.,Wireless Earbuds,Electronics,positive,Online Store,2025-04-26,5,Yes
+REV0282,Excellent value for the price. I especially like the volume.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-07-18,5,Yes
+REV0303,"The power bank looks fine, but the battery capacity stopped working quickly.",Power Bank,Electronics,negative,Social Commerce,2025-09-29,2,No
+REV0596,"Delivery was normal. The product itself seems average, especially the cushioning.",Running Shoes,Fashion,neutral,Social Commerce,2025-02-25,3,Yes
+REV0398,I would not recommend it. The absorption caused too many problems.,Moisturizer,Beauty,negative,Online Store,2025-03-08,1,Yes
+REV0059,Pleasantly surprised by the quality. The cable fit is excellent.,USB-C Charger,Electronics,positive,Online Store,2026-02-22,5,Yes
+REV0515,I would buy this again. The comfort is a nice touch.,Sunglasses,Fashion,positive,Social Commerce,2026-02-27,5,Yes
+REV0214,"The running shoes is not perfect, but the comfort is quite good and useful.",Running Shoes,Fashion,positive,Social Commerce,2025-12-02,4,Yes
+REV0383,"It does what it is supposed to do, although the scent is nothing special.",Moisturizer,Beauty,neutral,Social Commerce,2026-04-21,4,No
+REV1180,"I expected a basic product, but the build quality turned out to be surprisingly good.",Power Bank,Electronics,positive,Social Commerce,2025-10-25,4,No
+REV0202,Good quality product and the size feels well made. The packaging was also neat.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-03-26,5,Yes
+REV1048,"The backpack is okay overall; the storage space works, but there is nothing remarkable. Delivery took a normal amount of time.",Backpack,Fashion,neutral,Online Store,2026-03-06,3,Yes
+REV0701,Really happy with this purchase. The non-stick coating works very well.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-01-08,5,Yes
+REV1111,I had a bad experience because the lid design is unreliable.,Water Bottle,Home & Kitchen,negative,Online Store,2025-02-18,1,No
+REV0011,This has made my daily routine easier. The battery life is very convenient.,Wireless Earbuds,Electronics,positive,Online Store,2025-08-04,5,Yes
+REV0423,"The product looks as shown in the listing, and the portability is fairly ordinary. I will update my opinion after more use.",Laptop Stand,Electronics,neutral,Online Store,2025-03-18,4,Yes
+REV0597,The quality is disappointing and the weight feels cheap.,Non-Stick Frying Pan,Home & Kitchen,negative,Online Store,2025-05-24,2,Yes
+REV0828,Arrived on time and works as described. The zipper quality is great.,Backpack,Fashion,positive,Online Store,2026-08-31,5,Yes
+REV0854,I expected better quality. The typing response is the main problem.,Mechanical Keyboard,Electronics,negative,Online Store,2026-08-11,2,Yes
+REV0812,"The water bottle is not bad, but I would not call the size exceptional. The packaging was standard.",Water Bottle,Home & Kitchen,neutral,Social Commerce,2026-04-20,3,Yes
+REV0800,Disappointed with this purchase. The packaging is poor.,Face Wash,Beauty,negative,Social Commerce,2025-12-17,2,Yes
+REV0433,I have used it for a while and the stability has been reliable.,Laptop Stand,Electronics,positive,Social Commerce,2025-06-24,4,Yes
+REV0601,Good quality product and the Bluetooth connection feels well made.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-02-28,5,Yes
+REV0507,"The smart watch looks fine, but the battery life stopped working quickly.",Smart Watch,Electronics,negative,Online Store,2025-05-21,1,Yes
+REV0943,"I expected a basic product, but the scent turned out to be surprisingly good. The packaging was also neat.",Moisturizer,Beauty,positive,Online Store,2025-12-10,5,Yes
+REV0458,No major issue so far. The material is neither impressive nor disappointing.,Storage Organizer,Home & Kitchen,neutral,Social Commerce,2026-02-19,3,Yes
+REV0080,Arrived on time and works as described. The screen is great. The packaging was also neat.,Smart Watch,Electronics,positive,Social Commerce,2025-04-14,4,Yes
+REV0139,"The water bottle looks fine, but the insulation stopped working quickly.",Water Bottle,Home & Kitchen,negative,Social Commerce,2025-01-27,1,Yes
+REV0707,The laptop stand arrived on time. I have only used it a few times so far.,Laptop Stand,Electronics,neutral,Online Store,2025-12-06,4,Yes
+REV0763,"The wireless earbuds looks fine, but the sound quality stopped working quickly.",Wireless Earbuds,Electronics,negative,Social Commerce,2026-01-25,3,Yes
+REV0571,Pleasantly surprised by the quality. The stability is excellent.,Laptop Stand,Electronics,positive,Social Commerce,2026-05-07,4,Yes
+REV0311,Very satisfied overall. The fit is exactly what I needed.,Phone Case,Accessories,positive,Social Commerce,2025-11-06,4,Yes
+REV1001,Pleasantly surprised by the quality. The size is excellent.,Power Bank,Electronics,positive,Social Commerce,2025-10-04,5,No
+REV1197,The water bottle looks good and the lid design is better than I expected.,Water Bottle,Home & Kitchen,positive,Online Store,2025-03-15,4,Yes
+REV0700,Excellent value for the price. I especially like the handle.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-10-21,5,Yes
+REV0055,Pleasantly surprised by the quality. The size is excellent.,Storage Organizer,Home & Kitchen,positive,Online Store,2026-05-30,4,Yes
+REV0982,Packaging was fine and delivery was on schedule. I am still testing the comfort.,Sunglasses,Fashion,neutral,Online Store,2025-03-01,3,Yes
+REV0618,Arrived on time and works as described. The lid design is great.,Water Bottle,Home & Kitchen,positive,Online Store,2026-01-23,5,Yes
+REV0745,The wireless earbuds looks good and the Bluetooth connection is better than I expected.,Wireless Earbuds,Electronics,positive,Online Store,2025-04-04,5,Yes
+REV0023,"It arrived, but the button access was already damaged.",Phone Case,Accessories,negative,Online Store,2026-03-08,2,No
+REV0722,"It does what it is supposed to do, although the non-stick coating is nothing special.",Non-Stick Frying Pan,Home & Kitchen,neutral,Online Store,2026-08-27,3,Yes
+REV0615,"The non-stick frying pan is not perfect, but the heat distribution is quite good and useful.",Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-04-22,5,Yes
+REV0934,I would not recommend it. The size caused too many problems.,Coffee Mug,Home & Kitchen,negative,Online Store,2026-02-09,3,No
+REV0068,"The backpack is okay overall; the storage space works, but there is nothing remarkable. Delivery took a normal amount of time.",Backpack,Fashion,neutral,Online Store,2025-11-30,4,Yes
+REV0772,Really happy with this purchase. The build quality works very well.,Mechanical Keyboard,Electronics,positive,Online Store,2025-09-14,4,Yes
+REV1039,Excellent value for the price. I especially like the notifications.,Smart Watch,Electronics,positive,Online Store,2026-03-01,5,Yes
+REV0660,No major issue so far. The comfort is neither impressive nor disappointing. Nothing unusual was noticed during delivery.,Sunglasses,Fashion,neutral,Online Store,2025-03-23,3,Yes
+REV0340,Pleasantly surprised by the quality. The comfort is excellent.,Cotton T-Shirt,Fashion,positive,Online Store,2026-06-30,5,No
+REV0213,Disappointed with this purchase. The sound quality is poor.,Wireless Earbuds,Electronics,negative,Online Store,2025-09-06,2,Yes
+REV0500,"I would not recommend it. The stability caused too many problems. The packaging looked fine, but the product was not.",Laptop Stand,Electronics,negative,Social Commerce,2025-01-22,1,Yes
+REV0878,I would not recommend it. The absorption caused too many problems.,Moisturizer,Beauty,negative,Online Store,2026-03-14,3,Yes
+REV0919,The quality is disappointing and the build quality feels cheap.,Laptop Stand,Electronics,negative,Social Commerce,2025-11-17,2,Yes
+REV0327,Really happy with this purchase. The height adjustment works very well.,Laptop Stand,Electronics,positive,Online Store,2025-03-05,5,Yes
+REV0266,Excellent value for the price. I especially like the charging speed.,USB-C Charger,Electronics,positive,Social Commerce,2026-06-06,5,Yes
+REV1124,The storage organizer arrived on time. I have only used it a few times so far. Nothing unusual was noticed during delivery.,Storage Organizer,Home & Kitchen,neutral,Online Store,2025-11-26,3,No
+REV0731,This has made my daily routine easier. The assembly is very convenient.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2026-01-04,4,Yes
+REV1062,Very frustrating to use because the skin feel keeps causing issues.,Moisturizer,Beauty,negative,Online Store,2025-11-18,2,No
+REV0445,The product does not perform as advertised. The skin feel is especially weak.,Face Wash,Beauty,negative,Social Commerce,2026-08-31,3,Yes
+REV0695,The product does not perform as advertised. The fit is especially weak.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2026-07-22,2,No
+REV0732,Arrived on time and works as described. The color is great.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2026-05-06,4,Yes
+REV0713,Pleasantly surprised by the quality. The volume is excellent.,Bluetooth Speaker,Electronics,positive,Online Store,2026-04-10,4,Yes
+REV0319,I would buy this again. The height adjustment is a nice touch.,Laptop Stand,Electronics,positive,Social Commerce,2025-03-30,4,Yes
+REV0610,The size and appearance are as expected. I have not tested the charging speed much yet.,USB-C Charger,Electronics,neutral,Online Store,2025-07-20,3,Yes
+REV1193,"Delivery was normal. The product itself seems average, especially the texture.",Face Wash,Beauty,neutral,Online Store,2025-02-19,3,Yes
+REV0191,The size and appearance are as expected. I have not tested the insulation much yet.,Water Bottle,Home & Kitchen,neutral,Social Commerce,2025-02-26,3,Yes
+REV0043,Pleasantly surprised by the quality. The switch is excellent.,Desk Lamp,Home & Kitchen,positive,Online Store,2026-01-21,5,Yes
+REV1005,I have used it for a while and the size has been reliable.,Power Bank,Electronics,positive,Social Commerce,2026-07-18,4,No
+REV0671,"It looks nice at first, although the step tracking does not meet my expectations. Delivery was not the main problem.",Smart Watch,Electronics,negative,Online Store,2026-04-19,2,No
+REV1030,The cotton t-shirt looks good and the color is better than I expected.,Cotton T-Shirt,Fashion,positive,Social Commerce,2025-04-17,5,Yes
+REV0949,"The wireless earbuds looks fine, but the fit stopped working quickly.",Wireless Earbuds,Electronics,negative,Online Store,2025-08-15,1,Yes
+REV0360,"The coffee mug looks fine, but the heat retention stopped working quickly.",Coffee Mug,Home & Kitchen,negative,Social Commerce,2025-07-14,1,Yes
+REV0614,Disappointed with this purchase. The zipper quality is poor. I noticed the problem within the first week.,Backpack,Fashion,negative,Online Store,2025-07-11,3,Yes
+REV0541,The size and appearance are as expected. I have not tested the key feel much yet.,Mechanical Keyboard,Electronics,neutral,Social Commerce,2025-03-23,3,No
+REV1122,Packaging was fine and delivery was on schedule. I am still testing the size.,Coffee Mug,Home & Kitchen,neutral,Online Store,2025-03-12,3,Yes
+REV0233,Very frustrating to use because the battery capacity keeps causing issues.,Power Bank,Electronics,negative,Social Commerce,2026-08-31,1,Yes
+REV0691,"The smart watch looks fine, but the battery life stopped working quickly.",Smart Watch,Electronics,negative,Online Store,2026-05-12,3,Yes
+REV0749,No major issue so far. The build quality is neither impressive nor disappointing.,Power Bank,Electronics,neutral,Online Store,2025-11-14,3,No
+REV0595,"I expected a basic product, but the comfort turned out to be surprisingly good.",Backpack,Fashion,positive,Online Store,2026-01-21,5,Yes
+REV0550,"The coffee mug has a nice design, but the heat retention is too unreliable for me. The packaging looked fine, but the product was not.",Coffee Mug,Home & Kitchen,negative,Online Store,2025-10-12,1,Yes
+REV0611,Excellent value for the price. I especially like the fit. It feels solid in hand.,Running Shoes,Fashion,positive,Online Store,2026-01-05,4,No
+REV0802,Excellent value for the price. I especially like the step tracking.,Smart Watch,Electronics,positive,Social Commerce,2026-05-20,4,No
+REV0846,"Delivery was normal. The product itself seems average, especially the comfort.",Backpack,Fashion,neutral,Social Commerce,2025-06-05,3,Yes
+REV0120,Disappointed with this purchase. The cushioning is poor.,Running Shoes,Fashion,negative,Social Commerce,2026-06-03,2,Yes
+REV0769,I had a bad experience because the straps is unreliable.,Backpack,Fashion,negative,Online Store,2026-07-13,1,Yes
+REV1165,Good quality product and the handle feels well made.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2026-05-07,4,Yes
+REV0534,The product does not perform as advertised. The fit is especially weak. I noticed the problem within the first week.,Phone Case,Accessories,negative,Online Store,2025-02-21,3,Yes
+REV0517,This has made my daily routine easier. The typing response is very convenient.,Mechanical Keyboard,Electronics,positive,Online Store,2026-08-08,4,Yes
+REV0228,Excellent value for the price. I especially like the weight.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-07-18,4,No
+REV0703,Not worth the price. The switch is much worse than expected.,Desk Lamp,Home & Kitchen,negative,Online Store,2025-08-01,1,Yes
+REV0754,"The water bottle has a nice design, but the insulation is too unreliable for me. The packaging looked fine, but the product was not.",Water Bottle,Home & Kitchen,negative,Online Store,2025-05-01,2,Yes
+REV1038,"The product looks as shown in the listing, and the heat control is fairly ordinary.",USB-C Charger,Electronics,neutral,Social Commerce,2025-01-27,3,No
+REV0420,The desk lamp is usable and matches the description. I am undecided about the design.,Desk Lamp,Home & Kitchen,neutral,Social Commerce,2026-07-02,4,Yes
+REV0740,Good quality product and the switch feels well made.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2025-11-24,4,Yes
+REV0123,Good quality product and the volume feels well made.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-05-18,5,Yes
+REV1015,The size and appearance are as expected. I have not tested the battery life much yet.,Smart Watch,Electronics,neutral,Online Store,2026-03-20,3,Yes
+REV0694,Excellent value for the price. I especially like the Bluetooth connection.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-07-07,5,Yes
+REV1137,Packaging was fine and delivery was on schedule. I am still testing the protection.,Phone Case,Accessories,neutral,Online Store,2025-01-21,3,Yes
+REV0475,"I expected a basic product, but the heat distribution turned out to be surprisingly good.",Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-01-17,5,No
+REV0956,"The running shoes is okay overall; the cushioning works, but there is nothing remarkable.",Running Shoes,Fashion,neutral,Social Commerce,2025-11-14,4,No
+REV1192,The size and appearance are as expected. I have not tested the comfort much yet.,Sunglasses,Fashion,neutral,Online Store,2025-03-30,3,Yes
+REV0807,"It does what it is supposed to do, although the fit is nothing special.",Bed Sheet Set,Home & Kitchen,neutral,Online Store,2025-12-31,3,No
+REV0967,I have used it for a while and the cushioning has been reliable.,Running Shoes,Fashion,positive,Online Store,2025-07-17,4,Yes
+REV0882,Very satisfied overall. The key feel is exactly what I needed. The packaging was also neat.,Mechanical Keyboard,Electronics,positive,Online Store,2026-02-21,4,No
+REV1076,"The face wash looks fine, but the packaging stopped working quickly.",Face Wash,Beauty,negative,Online Store,2025-09-06,1,Yes
+REV0572,"The bluetooth speaker is not perfect, but the Bluetooth connection is quite good and useful.",Bluetooth Speaker,Electronics,positive,Online Store,2026-08-08,4,Yes
+REV1012,The quality is disappointing and the Bluetooth connection feels cheap.,Wireless Earbuds,Electronics,negative,Social Commerce,2026-05-29,1,Yes
+REV0553,I would buy this again. The handle is a nice touch.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2025-01-03,5,Yes
+REV0667,Very frustrating to use because the volume keeps causing issues. I contacted support and the issue remained.,Bluetooth Speaker,Electronics,negative,Online Store,2025-01-12,1,Yes
+REV0440,Pleasantly surprised by the quality. The insulation is excellent.,Water Bottle,Home & Kitchen,positive,Online Store,2025-03-07,4,Yes
+REV0662,Very satisfied overall. The size is exactly what I needed. The packaging was also neat.,Water Bottle,Home & Kitchen,positive,Online Store,2025-01-14,4,Yes
+REV1092,I have used it for a while and the skin feel has been reliable.,Face Wash,Beauty,positive,Online Store,2026-06-19,5,No
+REV0875,The quality is disappointing and the heat control feels cheap.,USB-C Charger,Electronics,negative,Social Commerce,2026-08-30,3,Yes
+REV1087,"It looks nice at first, although the frame quality does not meet my expectations.",Sunglasses,Fashion,negative,Online Store,2025-08-19,2,Yes
+REV0987,This has made my daily routine easier. The zipper quality is very convenient.,Backpack,Fashion,positive,Online Store,2025-10-21,5,Yes
+REV0577,"It looks nice at first, although the portability does not meet my expectations.",Laptop Stand,Electronics,negative,Social Commerce,2025-10-22,1,Yes
+REV0645,Pleasantly surprised by the quality. The Bluetooth connection is excellent.,Wireless Earbuds,Electronics,positive,Social Commerce,2025-07-10,5,Yes
+REV0513,Arrived on time and works as described. The scent is great.,Face Wash,Beauty,positive,Social Commerce,2025-05-09,4,Yes
+REV0926,I had a bad experience because the weight is unreliable. Delivery was not the main problem.,Non-Stick Frying Pan,Home & Kitchen,negative,Online Store,2025-08-12,2,Yes
+REV0887,Not worth the price. The build quality is much worse than expected.,Mechanical Keyboard,Electronics,negative,Online Store,2026-03-10,1,Yes
+REV1044,"The power bank looks fine, but the size stopped working quickly.",Power Bank,Electronics,negative,Social Commerce,2026-01-14,1,No
+REV0710,No major issue so far. The assembly is neither impressive nor disappointing. Delivery took a normal amount of time.,Storage Organizer,Home & Kitchen,neutral,Online Store,2025-05-17,3,Yes
+REV0363,"Delivery was normal. The product itself seems average, especially the straps.",Backpack,Fashion,neutral,Online Store,2025-08-20,4,Yes
+REV0741,I would buy this again. The skin feel is a nice touch.,Moisturizer,Beauty,positive,Online Store,2026-01-07,5,No
+REV0181,"It arrived, but the battery capacity was already damaged. I noticed the problem within the first week.",Power Bank,Electronics,negative,Social Commerce,2026-03-25,2,Yes
+REV0006,"It looks nice at first, although the leak protection does not meet my expectations.",Water Bottle,Home & Kitchen,negative,Social Commerce,2025-09-18,1,Yes
+REV0569,"It arrived, but the volume was already damaged.",Bluetooth Speaker,Electronics,negative,Online Store,2025-09-23,2,Yes
+REV0617,Very satisfied overall. The portability is exactly what I needed.,Laptop Stand,Electronics,positive,Social Commerce,2025-10-20,5,Yes
+REV0391,"The sunglasses looks fine, but the frame quality stopped working quickly. I noticed the problem within the first week.",Sunglasses,Fashion,negative,Social Commerce,2025-05-25,1,Yes
+REV0862,Arrived on time and works as described. The charging speed is great.,USB-C Charger,Electronics,positive,Online Store,2025-06-08,5,Yes
+REV0842,"The power bank is okay overall; the charging speed works, but there is nothing remarkable.",Power Bank,Electronics,neutral,Online Store,2025-02-13,3,Yes
+REV1017,I would buy this again. The fit is a nice touch.,Sunglasses,Fashion,positive,Online Store,2026-04-02,5,Yes
+REV0663,I would buy this again. The insulation is a nice touch.,Water Bottle,Home & Kitchen,positive,Social Commerce,2026-04-23,5,No
+REV0028,"I expected a basic product, but the step tracking turned out to be surprisingly good. The packaging was also neat.",Smart Watch,Electronics,positive,Social Commerce,2026-02-23,4,Yes
+REV0275,The bed sheet set is usable and matches the description. I am undecided about the fabric quality.,Bed Sheet Set,Home & Kitchen,neutral,Online Store,2025-06-27,3,Yes
+REV0293,This has made my daily routine easier. The build quality is very convenient.,USB-C Charger,Electronics,positive,Online Store,2025-05-23,4,No
+REV0295,The product does not perform as advertised. The straps is especially weak.,Backpack,Fashion,negative,Social Commerce,2025-12-19,2,Yes
+REV0149,I would buy this again. The typing response is a nice touch.,Mechanical Keyboard,Electronics,positive,Social Commerce,2025-06-14,5,Yes
+REV0268,This has made my daily routine easier. The capacity is very convenient.,Storage Organizer,Home & Kitchen,positive,Online Store,2025-06-04,5,Yes
+REV0456,"The phone case looks fine, but the grip stopped working quickly.",Phone Case,Accessories,negative,Online Store,2026-03-11,1,Yes
+REV0545,Good quality product and the sound quality feels well made.,Wireless Earbuds,Electronics,positive,Online Store,2025-02-20,4,No
+REV0586,Pleasantly surprised by the quality. The switch is excellent.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-03-05,4,No
+REV0008,Very frustrating to use because the step tracking keeps causing issues. Delivery was not the main problem.,Smart Watch,Electronics,negative,Online Store,2025-03-02,1,Yes
+REV0063,Packaging was fine and delivery was on schedule. I am still testing the backlight.,Mechanical Keyboard,Electronics,neutral,Social Commerce,2025-12-26,4,Yes
+REV0405,The power bank is usable and matches the description. I am undecided about the charging speed.,Power Bank,Electronics,neutral,Online Store,2025-07-26,3,No
+REV0859,"I received the correct item and have used it once. So far, the battery life seems acceptable. Delivery took a normal amount of time.",Smart Watch,Electronics,neutral,Social Commerce,2026-02-15,3,Yes
+REV0977,I would buy this again. The button access is a nice touch.,Phone Case,Accessories,positive,Online Store,2025-09-09,5,Yes
+REV0127,"The product looks as shown in the listing, and the leak protection is fairly ordinary.",Water Bottle,Home & Kitchen,neutral,Online Store,2025-11-28,3,Yes
+REV1158,The product does not perform as advertised. The typing response is especially weak.,Mechanical Keyboard,Electronics,negative,Online Store,2025-06-22,2,Yes
+REV0798,The size and appearance are as expected. I have not tested the leak protection much yet. Delivery took a normal amount of time.,Water Bottle,Home & Kitchen,neutral,Social Commerce,2025-02-12,3,No
+REV0936,"I expected a basic product, but the non-stick coating turned out to be surprisingly good.",Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-12-08,4,Yes
+REV0822,The bluetooth speaker is okay for now. I need more time to judge the battery life.,Bluetooth Speaker,Electronics,neutral,Social Commerce,2025-09-12,4,Yes
+REV0839,Pleasantly surprised by the quality. The design is excellent.,Desk Lamp,Home & Kitchen,positive,Online Store,2026-03-02,4,No
+REV0872,I would buy this again. The grip is a nice touch.,Phone Case,Accessories,positive,Online Store,2026-05-02,4,Yes
+REV0639,The size and appearance are as expected. I have not tested the comfort much yet.,Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-09-25,3,Yes
+REV0001,I would not recommend it. The Bluetooth connection caused too many problems.,Wireless Earbuds,Electronics,negative,Social Commerce,2025-11-04,3,No
+REV0674,Very frustrating to use because the battery life keeps causing issues. Delivery was not the main problem.,Wireless Earbuds,Electronics,negative,Social Commerce,2025-11-18,3,Yes
+REV0879,I expected better quality. The grip is the main problem.,Phone Case,Accessories,negative,Online Store,2026-02-24,3,Yes
+REV1172,Arrived on time and works as described. The handle is great.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2026-08-18,4,No
+REV0890,Arrived on time and works as described. The skin feel is great.,Moisturizer,Beauty,positive,Social Commerce,2025-01-30,4,Yes
+REV0505,Really happy with this purchase. The battery life works very well.,Bluetooth Speaker,Electronics,positive,Online Store,2026-03-16,4,Yes
+REV1199,Pleasantly surprised by the quality. The skin feel is excellent.,Face Wash,Beauty,positive,Online Store,2026-06-20,4,Yes
+REV0592,The quality is disappointing and the size feels cheap. Delivery was not the main problem.,Power Bank,Electronics,negative,Online Store,2025-05-26,3,Yes
+REV0012,Excellent value for the price. I especially like the heat distribution.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-12-15,4,Yes
+REV0813,This has made my daily routine easier. The fit is very convenient.,Phone Case,Accessories,positive,Online Store,2026-07-09,5,Yes
+REV0198,I would not recommend it. The build quality caused too many problems. I contacted support and the issue remained.,Mechanical Keyboard,Electronics,negative,Social Commerce,2026-01-27,1,No
+REV0516,I have used it for a while and the comfort has been reliable. Delivery was quick.,Sunglasses,Fashion,positive,Online Store,2026-06-24,5,Yes
+REV0238,"The product looks as shown in the listing, and the size is fairly ordinary.",Water Bottle,Home & Kitchen,neutral,Online Store,2026-03-19,3,Yes
+REV0779,Very satisfied overall. The stability is exactly what I needed.,Laptop Stand,Electronics,positive,Social Commerce,2025-09-05,4,No
+REV0272,Good quality product and the charging speed feels well made. Delivery was quick.,USB-C Charger,Electronics,positive,Online Store,2026-03-11,5,Yes
+REV0488,I would not recommend it. The charging speed caused too many problems.,USB-C Charger,Electronics,negative,Social Commerce,2025-07-28,1,Yes
+REV0853,This has made my daily routine easier. The non-stick coating is very convenient.,Non-Stick Frying Pan,Home & Kitchen,positive,Social Commerce,2026-08-14,4,Yes
+REV0830,Arrived on time and works as described. The battery life is great. I have used it almost every day.,Smart Watch,Electronics,positive,Online Store,2025-03-07,4,Yes
+REV0633,Disappointed with this purchase. The comfort is poor.,Cotton T-Shirt,Fashion,negative,Online Store,2026-05-14,2,Yes
+REV0375,Very satisfied overall. The volume is exactly what I needed.,Bluetooth Speaker,Electronics,positive,Online Store,2025-12-11,4,Yes
+REV0305,Arrived on time and works as described. The step tracking is great.,Smart Watch,Electronics,positive,Social Commerce,2026-04-21,5,Yes
+REV0649,The sunglasses looks good and the fit is better than I expected.,Sunglasses,Fashion,positive,Social Commerce,2025-06-20,4,Yes
+REV0450,Pleasantly surprised by the quality. The design is excellent. I have used it almost every day.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-01-14,5,Yes
+REV1171,"The power bank is not perfect, but the build quality is quite good and useful.",Power Bank,Electronics,positive,Social Commerce,2025-01-17,5,Yes
+REV0364,Pleasantly surprised by the quality. The battery life is excellent.,Bluetooth Speaker,Electronics,positive,Social Commerce,2026-06-06,4,No
+REV0723,"It arrived, but the frame quality was already damaged.",Sunglasses,Fashion,negative,Online Store,2026-03-02,1,Yes
+REV0901,"I received the correct item and have used it once. So far, the stability seems acceptable.",Laptop Stand,Electronics,neutral,Online Store,2025-11-17,3,Yes
+REV0489,"The smart watch has a nice design, but the notifications is too unreliable for me. I noticed the problem within the first week.",Smart Watch,Electronics,negative,Online Store,2026-06-02,1,Yes
+REV1187,The mechanical keyboard looks good and the key feel is better than I expected. I have used it almost every day.,Mechanical Keyboard,Electronics,positive,Social Commerce,2026-03-08,4,No
+REV0925,Arrived on time and works as described. The screen is great.,Smart Watch,Electronics,positive,Social Commerce,2025-01-30,4,Yes
+REV0559,Good quality product and the finish feels well made.,Coffee Mug,Home & Kitchen,positive,Online Store,2025-08-03,4,Yes
+REV0773,This has made my daily routine easier. The cushioning is very convenient.,Running Shoes,Fashion,positive,Online Store,2025-04-30,4,Yes
+REV0665,I would buy this again. The adjustability is a nice touch.,Desk Lamp,Home & Kitchen,positive,Online Store,2025-08-24,5,Yes
+REV0165,"It arrived, but the battery capacity was already damaged.",Power Bank,Electronics,negative,Online Store,2025-05-04,2,Yes
+REV1159,"The running shoes is not bad, but I would not call the cushioning exceptional.",Running Shoes,Fashion,neutral,Social Commerce,2026-03-04,3,Yes
+REV0033,Pleasantly surprised by the quality. The fit is excellent.,Wireless Earbuds,Electronics,positive,Online Store,2025-05-25,4,Yes
+REV0737,I have used it for a while and the size has been reliable. I have used it almost every day.,Coffee Mug,Home & Kitchen,positive,Social Commerce,2025-09-04,4,No
+REV0177,The desk lamp arrived on time. I have only used it a few times so far.,Desk Lamp,Home & Kitchen,neutral,Online Store,2026-05-17,3,Yes
+REV0385,The water bottle looks good and the size is better than I expected.,Water Bottle,Home & Kitchen,positive,Online Store,2025-08-22,4,Yes
+REV0908,Disappointed with this purchase. The size is poor.,Water Bottle,Home & Kitchen,negative,Social Commerce,2025-07-17,2,No
+REV0437,"I expected a basic product, but the color turned out to be surprisingly good.",Cotton T-Shirt,Fashion,positive,Online Store,2026-05-13,4,Yes
+REV0190,"I would not recommend it. The lens quality caused too many problems. The packaging looked fine, but the product was not.",Sunglasses,Fashion,negative,Social Commerce,2025-10-03,2,Yes
+REV1013,Good quality product and the color feels well made.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-06-09,5,Yes
+REV1131,No major issue so far. The height adjustment is neither impressive nor disappointing. The packaging was standard.,Laptop Stand,Electronics,neutral,Social Commerce,2025-04-22,3,Yes
+REV0415,Excellent value for the price. I especially like the battery life.,Smart Watch,Electronics,positive,Online Store,2026-01-13,5,Yes
+REV1156,Pleasantly surprised by the quality. The Bluetooth connection is excellent.,Wireless Earbuds,Electronics,positive,Social Commerce,2026-07-20,5,Yes
+REV0203,Excellent value for the price. I especially like the Bluetooth connection.,Bluetooth Speaker,Electronics,positive,Social Commerce,2025-06-10,4,Yes
+REV0941,The product does not perform as advertised. The frame quality is especially weak.,Sunglasses,Fashion,negative,Online Store,2026-03-27,1,Yes
+REV0651,"The storage organizer is not bad, but I would not call the capacity exceptional.",Storage Organizer,Home & Kitchen,neutral,Online Store,2025-01-23,4,Yes
+REV0184,Pleasantly surprised by the quality. The fit is excellent.,Wireless Earbuds,Electronics,positive,Social Commerce,2026-03-24,4,No
+REV0892,"Delivery was normal. The product itself seems average, especially the insulation.",Water Bottle,Home & Kitchen,neutral,Social Commerce,2025-05-22,3,Yes
+REV0888,Good quality product and the build quality feels well made.,Laptop Stand,Electronics,positive,Social Commerce,2025-06-09,4,Yes
+REV0346,The quality is disappointing and the softness feels cheap.,Bed Sheet Set,Home & Kitchen,negative,Social Commerce,2025-01-22,1,No
+REV0432,Arrived on time and works as described. The storage space is great.,Backpack,Fashion,positive,Social Commerce,2026-05-09,5,Yes
+REV0308,Really happy with this purchase. The fabric quality works very well.,Bed Sheet Set,Home & Kitchen,positive,Social Commerce,2025-06-03,5,Yes
+REV0344,No major issue so far. The softness is neither impressive nor disappointing. The packaging was standard.,Bed Sheet Set,Home & Kitchen,neutral,Online Store,2025-05-11,3,Yes
+REV0836,"It looks nice at first, although the comfort does not meet my expectations.",Backpack,Fashion,negative,Social Commerce,2025-07-26,2,No
+REV1102,"It arrived, but the battery capacity was already damaged. I contacted support and the issue remained.",Power Bank,Electronics,negative,Social Commerce,2025-04-04,1,Yes
+REV0443,The quality is disappointing and the adjustability feels cheap.,Desk Lamp,Home & Kitchen,negative,Online Store,2025-04-25,2,Yes
+REV0434,"I expected a basic product, but the insulation turned out to be surprisingly good.",Water Bottle,Home & Kitchen,positive,Online Store,2026-05-21,5,No
+REV0345,"The power bank looks fine, but the size stopped working quickly.",Power Bank,Electronics,negative,Social Commerce,2026-06-24,1,Yes
+REV0348,The phone case arrived on time. I have only used it a few times so far.,Phone Case,Accessories,neutral,Online Store,2025-05-22,4,Yes
+REV0130,"It arrived, but the volume was already damaged.",Bluetooth Speaker,Electronics,negative,Social Commerce,2026-05-27,1,Yes
+REV0115,I would not recommend it. The charging speed caused too many problems.,USB-C Charger,Electronics,negative,Online Store,2025-05-21,1,Yes
+REV0156,The water bottle arrived on time. I have only used it a few times so far.,Water Bottle,Home & Kitchen,neutral,Social Commerce,2026-03-18,3,Yes
+REV0446,"It does what it is supposed to do, although the scent is nothing special.",Moisturizer,Beauty,neutral,Online Store,2026-01-21,3,Yes
+REV0580,Excellent value for the price. I especially like the color. Delivery was quick.,Cotton T-Shirt,Fashion,positive,Social Commerce,2026-01-15,4,Yes
+REV0820,The size and appearance are as expected. I have not tested the typing response much yet.,Mechanical Keyboard,Electronics,neutral,Online Store,2025-04-28,3,Yes
+REV0918,The size and appearance are as expected. I have not tested the comfort much yet.,Running Shoes,Fashion,neutral,Online Store,2025-07-07,3,No
+REV0522,"Delivery was normal. The product itself seems average, especially the Bluetooth connection.",Wireless Earbuds,Electronics,neutral,Social Commerce,2026-04-14,4,Yes
+REV0499,Very frustrating to use because the heat retention keeps causing issues.,Coffee Mug,Home & Kitchen,negative,Online Store,2025-12-10,2,Yes
+REV0404,"Delivery was normal. The product itself seems average, especially the storage space.",Backpack,Fashion,neutral,Social Commerce,2025-02-27,3,Yes
+REV0256,I have used it for a while and the build quality has been reliable.,Power Bank,Electronics,positive,Social Commerce,2025-08-03,4,Yes
+REV1188,"The quality is disappointing and the color feels cheap. The packaging looked fine, but the product was not.",Cotton T-Shirt,Fashion,negative,Online Store,2025-11-08,2,Yes
+REV1182,Excellent value for the price. I especially like the comfort.,Sunglasses,Fashion,positive,Online Store,2025-03-03,4,Yes
+REV0895,I have used it for a while and the heat control has been reliable.,USB-C Charger,Electronics,positive,Online Store,2026-08-26,4,Yes
+REV0635,"The product looks as shown in the listing, and the battery life is fairly ordinary.",Smart Watch,Electronics,neutral,Social Commerce,2025-03-15,4,Yes
+REV0606,I would buy this again. The fit is a nice touch.,Running Shoes,Fashion,positive,Social Commerce,2026-05-06,5,Yes
+REV0257,"The power bank is not perfect, but the size is quite good and useful.",Power Bank,Electronics,positive,Social Commerce,2026-08-09,5,No
+REV1120,"The product looks as shown in the listing, and the grip is fairly ordinary.",Running Shoes,Fashion,neutral,Online Store,2025-03-29,3,Yes
+REV0328,Disappointed with this purchase. The fabric quality is poor. Delivery was not the main problem.,Cotton T-Shirt,Fashion,negative,Social Commerce,2025-04-18,2,No
+REV0403,"It looks nice at first, although the texture does not meet my expectations. I noticed the problem within the first week.",Moisturizer,Beauty,negative,Online Store,2025-12-12,2,No
+REV0339,"I expected better quality. The backlight is the main problem. The packaging looked fine, but the product was not.",Mechanical Keyboard,Electronics,negative,Social Commerce,2026-02-08,1,No
+REV1088,Arrived on time and works as described. The straps is great.,Backpack,Fashion,positive,Social Commerce,2025-03-08,5,Yes
+REV1068,The storage organizer looks good and the size is better than I expected.,Storage Organizer,Home & Kitchen,positive,Online Store,2026-08-27,5,Yes
+REV1098,The product does not perform as advertised. The grip is especially weak.,Running Shoes,Fashion,negative,Social Commerce,2025-05-30,2,Yes
+REV0454,"It does what it is supposed to do, although the comfort is nothing special.",Backpack,Fashion,neutral,Online Store,2026-07-03,3,Yes
+REV1097,"The desk lamp is okay overall; the brightness works, but there is nothing remarkable. Delivery took a normal amount of time.",Desk Lamp,Home & Kitchen,neutral,Social Commerce,2025-07-08,3,Yes
+REV0159,Excellent value for the price. I especially like the button access.,Phone Case,Accessories,positive,Social Commerce,2026-02-05,5,Yes
+REV0231,Excellent value for the price. I especially like the size.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2026-02-12,4,Yes
+REV0106,Packaging was fine and delivery was on schedule. I am still testing the size.,Storage Organizer,Home & Kitchen,neutral,Online Store,2025-12-24,3,Yes
+REV0049,Not worth the price. The weight is much worse than expected.,Non-Stick Frying Pan,Home & Kitchen,negative,Social Commerce,2025-03-16,2,Yes
+REV1161,I had a bad experience because the sound quality is unreliable.,Bluetooth Speaker,Electronics,negative,Social Commerce,2026-04-13,2,Yes
+REV0384,The moisturizer looks good and the scent is better than I expected. I have used it almost every day.,Moisturizer,Beauty,positive,Online Store,2025-05-02,5,No
+REV0678,The size and appearance are as expected. I have not tested the fit much yet.,Wireless Earbuds,Electronics,neutral,Online Store,2025-05-11,4,No
+REV0834,Good quality product and the battery life feels well made.,Smart Watch,Electronics,positive,Online Store,2025-02-23,4,No
+REV1148,Good quality product and the size feels well made.,Storage Organizer,Home & Kitchen,positive,Social Commerce,2025-11-13,5,Yes
+REV0866,"It looks nice at first, although the design does not meet my expectations. I contacted support and the issue remained.",Desk Lamp,Home & Kitchen,negative,Online Store,2026-05-15,2,Yes
+REV0518,The mechanical keyboard arrived on time. I have only used it a few times so far.,Mechanical Keyboard,Electronics,neutral,Online Store,2025-02-07,4,Yes
+REV0628,Pleasantly surprised by the quality. The sound quality is excellent.,Wireless Earbuds,Electronics,positive,Online Store,2025-07-09,5,Yes
+REV0354,The power bank is okay for now. I need more time to judge the size. Nothing unusual was noticed during delivery.,Power Bank,Electronics,neutral,Online Store,2025-03-12,3,Yes
+REV1085,Packaging was fine and delivery was on schedule. I am still testing the comfort.,Running Shoes,Fashion,neutral,Online Store,2026-01-10,3,Yes
+REV1061,"The desk lamp has a nice design, but the adjustability is too unreliable for me.",Desk Lamp,Home & Kitchen,negative,Social Commerce,2025-02-10,1,Yes
+REV0079,I have used it for a while and the fit has been reliable.,Wireless Earbuds,Electronics,positive,Online Store,2025-05-01,4,Yes
+REV0860,"The water bottle is not perfect, but the insulation is quite good and useful.",Water Bottle,Home & Kitchen,positive,Online Store,2025-02-11,4,Yes
+REV1196,I expected better quality. The size is the main problem. I noticed the problem within the first week.,Storage Organizer,Home & Kitchen,negative,Online Store,2025-09-19,2,Yes
+REV1142,Excellent value for the price. I especially like the size.,Power Bank,Electronics,positive,Social Commerce,2025-11-01,5,Yes
+REV1084,This has made my daily routine easier. The stability is very convenient.,Laptop Stand,Electronics,positive,Social Commerce,2025-11-29,4,Yes
+REV1080,Really happy with this purchase. The heat control works very well.,USB-C Charger,Electronics,positive,Online Store,2025-08-28,4,Yes
+REV0877,Not worth the price. The texture is much worse than expected.,Face Wash,Beauty,negative,Online Store,2025-08-27,1,Yes
+REV1006,Excellent value for the price. I especially like the button access.,Phone Case,Accessories,positive,Social Commerce,2026-06-17,5,No
+REV0847,"It arrived, but the packaging was already damaged.",Face Wash,Beauty,negative,Online Store,2026-03-09,2,Yes
+REV0035,"It arrived, but the comfort was already damaged.",Backpack,Fashion,negative,Online Store,2025-06-06,2,Yes
+REV0910,"I received the correct item and have used it once. So far, the material seems acceptable.",Storage Organizer,Home & Kitchen,neutral,Social Commerce,2025-12-26,3,Yes
+REV0140,"I had a bad experience because the grip is unreliable. The packaging looked fine, but the product was not.",Running Shoes,Fashion,negative,Social Commerce,2026-03-04,2,Yes
+REV0870,Not worth the price. The key feel is much worse than expected.,Mechanical Keyboard,Electronics,negative,Social Commerce,2026-08-09,2,No
+REV1133,Not worth the price. The screen is much worse than expected.,Smart Watch,Electronics,negative,Online Store,2026-05-17,1,No
+REV0087,The usb-c charger is okay for now. I need more time to judge the cable fit.,USB-C Charger,Electronics,neutral,Online Store,2025-11-17,3,Yes
+REV0194,Excellent value for the price. I especially like the finish.,Coffee Mug,Home & Kitchen,positive,Online Store,2026-08-03,4,Yes
+REV0462,Packaging was fine and delivery was on schedule. I am still testing the size.,Power Bank,Electronics,neutral,Social Commerce,2025-03-13,3,Yes
+REV0479,The bed sheet set is okay for now. I need more time to judge the fit.,Bed Sheet Set,Home & Kitchen,neutral,Online Store,2026-04-11,3,Yes
+REV0808,I would not recommend it. The brightness caused too many problems.,Desk Lamp,Home & Kitchen,negative,Online Store,2025-07-07,2,No
+REV0004,"Delivery was normal. The product itself seems average, especially the fit.",Cotton T-Shirt,Fashion,neutral,Social Commerce,2025-06-28,3,Yes
+REV0717,The backpack is okay for now. I need more time to judge the storage space.,Backpack,Fashion,neutral,Social Commerce,2025-11-15,3,No
+REV0244,Pleasantly surprised by the quality. The color is excellent.,Cotton T-Shirt,Fashion,positive,Social Commerce,2025-04-01,4,Yes
+REV0417,Very frustrating to use because the size keeps causing issues.,Power Bank,Electronics,negative,Online Store,2025-09-06,2,Yes
+REV0071,Good quality product and the fabric quality feels well made.,Bed Sheet Set,Home & Kitchen,positive,Online Store,2026-07-12,4,Yes
+REV0242,"It looks nice at first, although the Bluetooth connection does not meet my expectations.",Bluetooth Speaker,Electronics,negative,Online Store,2026-05-28,2,Yes
+REV1117,Very satisfied overall. The switch is exactly what I needed.,Desk Lamp,Home & Kitchen,positive,Social Commerce,2026-08-31,5,Yes
+REV0770,Good quality product and the heat distribution feels well made.,Non-Stick Frying Pan,Home & Kitchen,positive,Online Store,2025-02-17,4,Yes
+REV1014,"The bluetooth speaker is not perfect, but the Bluetooth connection is quite good and useful.",Bluetooth Speaker,Electronics,positive,Social Commerce,2026-07-16,4,Yes
